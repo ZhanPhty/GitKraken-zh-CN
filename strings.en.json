@@ -8,7 +8,6 @@
     "AboutProduct": "About <%= productName %>",
     "VersionNumber": "Version <%= version %> (<%= arch %> <%= bitness %>-bit)",
     "ViewReleaseNotes": "View Release Notes",
-
     "CheckingForUpdates": "Checking for updates...",
     "RestartAndInstallUpdate": "Restart and Install Update",
     "CheckForUpdateWithLastCheckedTime": "Check for Update <%= updateLastCheckedTime %>",
@@ -16,7 +15,6 @@
     "UpdateDownloadedShowFile": "Update downloaded (show file)",
     "UpdateErroredAtTime": "Update Errored <%= updateErrorTime %>",
     "DownloadingUpdate": "Downloading Update...",
-
     "Preferences": "Preferences...",
     "&Preferences": "&Preferences...",
     "Services": "Services",
@@ -25,7 +23,6 @@
     "ShowAll": "Show All",
     "Quit": "Quit GitKraken",
     "E&xit": "E&xit",
-
     "File": "File",
     "&File": "&File",
     "NewTab": "New Tab",
@@ -45,7 +42,6 @@
     "ReopenClosedTab": "Reopen Closed Tab",
     "ReopenClosed&Tab": "Reopen Closed &Tab",
     "SignIntoDifferentAccount": "Sign into a Different Account",
-
     "Edit": "Edit",
     "&Edit": "&Edit",
     "Undo": "Undo",
@@ -60,7 +56,6 @@
     "&Paste": "&Paste",
     "SelectAll": "Select All",
     "Select&All": "Select &All",
-
     "View": "View",
     "&View": "&View",
     "Reload Window": "Reload Window",
@@ -78,7 +73,6 @@
     "ToggleRequestHandlerDeveloperTools": "Toggle Request Handler Process Developer Tools",
     "ToggleRequestHandlerDeveloper&Tools": "Toggle Request Handler Process Developer &Tools",
     "PrintPerformanceTimingsToTerminal": "Print Performance Timings to Terminal",
-
     "Tabs": "Tabs",
     "CloseTab": "Close Tab",
     "SelectNextTab": "Select Next Tab",
@@ -93,7 +87,6 @@
     "SelectTab7": "Select Tab 7",
     "SelectTab8": "Select Tab 8",
     "SelectTab9": "Select Tab 9",
-
     "Favorites": "Favorites",
     "OpenFavorite1": "Open Favorite Repo 1",
     "OpenFavorite2": "Open Favorite Repo 2",
@@ -104,16 +97,13 @@
     "OpenFavorite7": "Open Favorite Repo 7",
     "OpenFavorite8": "Open Favorite Repo 8",
     "OpenFavorite9": "Open Favorite Repo 9",
-
     "ShowDetailPanel": "Show Commit Details Panel",
     "ShowLeftPanel": "Show Left Panel",
     "ShowToolbar": "Show Toolbar",
     "ShowTerminalPanel": "Show Terminal Panel",
-
     "Window": "Window",
     "Minimize": "Minimize",
     "Zoom": "Zoom",
-
     "Help": "Help",
     "&Help": "&Help",
     "ViewSupportDocs": "View Support Documentation",
@@ -133,35 +123,33 @@
     "About-Company": "Axosoft, LLC DBA GitKraken",
     "About-AllRightsReserved": "All rights reserved",
     "About-Version": "GitKraken Client Version {0}",
-
     "Application": "Application",
-
     "Bytes": "bytes",
-
     "By": "{0} by ",
-
     "NoMatches": "No matches",
     "NoFilterMatches": "No results matching filter",
-
     "QuitGitKraken": "Quit GitKraken",
-
     "Done": "Done",
     "Or": "or",
-
     "OpenInFileManager": "Open in file manager",
-
+    "Update": "Update",
     "Repo-Close": "Close repository",
     "Repo-Delete": "Delete repository",
     "Repo-Open": "Open repository",
     "Repo-OpenInDefaultTerminal": "Open in default external terminal",
     "Repo-OpenInTerminalTab": "Open this repo in a Terminal Tab",
     "Repo-OpenEmbeddedTerminal": "Toggle terminal panel",
-
     "Registration-ChangeEmail": "Sign into a different account",
     "Registration-CheckStatus": "Check Status",
     "Registration-PrivateRepoDetected": "This appears to be a private repository",
-    "Registration-PrivateRepoDetectedFreeContent": "The free version of GitKraken Client does not support opening private or self-hosted repositories. Upgrade to open this repository.",
-    "Registration-PrivateRepoDetectedUnregisteredContent": "The free version of GitKraken Client does not support opening private or self-hosted repositories. Start a free trial to open this repository.",
+    "Registration-PrivateRepoDetectedFreeContent": "The free plan of GitKraken Client does not support opening private or self-hosted repositories. Upgrade to open this repository.",
+    "Registration-PrivateRepoDetectedFreeContentCli": "The free plan of GitKraken Client does not support opening the graph view for private or self-hosted repositories. Upgrade to open this repository.",
+    "Registration-PrivateRepoDetectedUnregisteredContent": "Opening private or self-hosted repositories requires a license. Create a GitKraken account for a free trial to open this repository.",
+    "Registration-PrivateRepoDetectedUnregisteredContentCli": "Opening the graph view for private or self-hosted repositories requires a license. Create a GitKraken account for a free trial to open the graph view for this repository.",
+    "Registration-PrivateRepoDetectedUnregisteredTrialAvailableContent": "Opening private or self-hosted repositories requires a license. Access this and other private repositories free for {0} days by opening this repository. After which, you can start a free {1}-day trial when you create a new GitKraken account.",
+    "Registration-PrivateRepoDetectedUnregisteredTrialAvailableContentCli": "Using the graph view on private or self-hosted repositories requires a license. Open the graph view for this and other private repositories free for {0} days by proceeding. After which, you can start a free {1}-day trial when you create a new GitKraken account.",
+    "Registration-StartUnregisteredTrialButtonLabel": "Start Free {0}-Day Private Repo Access",
+    "Registration-StartRegisteredTrialButtonLabel": "Sign Up for a Free {0}-Day Trial",
     "Registration-CreateAccount": "Create a GitKraken Account",
     "Registration-CreatingAccount": "Creating Account...",
     "Registration-EmailAddress": "Email",
@@ -229,7 +217,7 @@
     "Registration-StudentLicenseExpiredBody1-4Button": "view GitKraken plans",
     "Registration-StudentLicenseExpiredBody1-5": "Otherwise, you can {0}.",
     "Registration-StudentLicenseExpiredBody1-5Button": "switch to a Free license",
-    "Registration-ProLicenseExpiredBody2-1": "You are now using the free version of GitKraken. The ability to open private and self-hosted repos, the merge conflict editor, Profiles, and the GitHub Enterprise, GitLab Self-Managed, Bitbucket Server, and Azure DevOps integrations have been disabled.",
+    "Registration-ProLicenseExpiredBody2-1": "You are now using the free version of GitKraken. The ability to open private and self-hosted repos, the merge conflict editor, Profiles, and the GitHub Enterprise Server, GitLab Self-Managed, Bitbucket Server, and Azure DevOps integrations have been disabled.",
     "Registration-ProLicenseExpiredBody2-2": "You can renew your subscription at any time from the main menu, or by visiting {0}.",
     "Registration-StudentLicenseExpiredBody2-2": "You can subscribe at any time from the main menu, or by visiting {0}.",
     "Registration-ProLicenseExpiredCancel": "Cancel Subscription",
@@ -271,22 +259,17 @@
     "Registration-SignIn": "Sign in",
     "Registration-SignUp": "Sign up",
     "Registration-Purchase": "Purchase",
-
     "Role-Admin": "Admin",
     "Role-Billing": "Billing Contact",
     "Role-Owner": "Owner",
-
     "SelfHostedConfiguration-Title": "Configure GitKraken Self-Hosted",
     "SelfHostedConfiguration-EnterHostname": "Please paste the URL provided on the GitKraken download page:",
     "SelfHostedConfiguration-CouldNotConnect": "Could not connect to the server.",
     "SelfHostedConfiguration-CouldNotParseURL": "Could not parse the given URL.",
-
     "Status-Pending": "Pending",
-
     "LicenseExpirationWarning-NDays": "License expires in {0} days",
     "LicenseExpirationWarning-Tomorrow": "License expires in 1 day!",
     "LicenseExpirationWarning-Today": "License expires in less than a day!",
-
     "Standalone-LicenseConfigurationTitle": "Serverless License",
     "Standalone-LicenseInfoForActive": "Licensed to {0} for {1} users",
     "Standalone-LicenseInfoForActiveExpiresSoon": "Licensed to {0} for {1} users. Expires in {2} days",
@@ -310,7 +293,6 @@
     "Standalone-UpdatedLicenseWasNotFound": "The license file you chose was not found.",
     "Standalone-BadSelectedLicense": "Update License Failed",
     "Standalone-LicenseSuccessfullyUpdated": "License Successfully Updated",
-
     "AnnotatedTag": "Annotated Tag",
     "Apply": "Apply",
     "Author": "Author",
@@ -333,6 +315,7 @@
     "CheckingOutBranch": "Checking out branch",
     "ConnectingWithEllipsis": "Connecting...",
     "DiscardAllChanges": "Discard all changes",
+    "Fetch": "Fetch",
     "Filter": "filter",
     "GeneratingWithEllipsis": "Generating...",
     "Likes": "Likes",
@@ -376,12 +359,10 @@
     "ViewSupportDocs": "View Support Documentation",
     "WorkInProgressOnBranchAbbr": "WIP on {0}",
     "Zoom": "Zoom",
-
     "License-Individual": "Individual",
     "License-Pro": "Pro",
     "License-Teams": "Teams",
     "License-Enterprise": "Enterprise",
-
     "LicenseBadge-Free": "FREE",
     "LicenseBadge-Individual": "INDIVIDUAL",
     "LicenseBadge-Enterprise": "ENTERPRISE",
@@ -390,27 +371,21 @@
     "LicenseBadge-Trial": "TRIAL",
     "LicenseBadge-SelfHosted": "SELF-HOSTED",
     "LicenseBadge-Standalone": "SERVERLESS",
-
     "FreeBadgeTooltip": "Licensed for use on open source projects. Click to see plans.",
-
     "Stash-ApplyWithUncommittedChangesPrompt": "You have uncommitted changes. Are you sure you want to apply the stash on top of your changes?",
     "Stash-PartialStashSelectedPath": "This will stash all staged and unstaged changes in \"{0}\". Are you sure you want to stash all changes in the file?",
     "Stash-PartialStashSelectedPaths": "This will stash all staged and unstaged changes in the selected files. Are you sure you want to stash all selected files?",
-
     "StashMessage-Checkout": "Auto stash before checking out \"{0}\"",
     "StashMessage-CherryPick": "Auto stash before cherry pick of \"{0}\"",
     "StashMessage-Merge": "Auto stash before merge of \"{0}\" and \"{1}\"",
     "StashMessage-Rebase": "Auto stash before rebase of \"{0}\"",
     "StashMessage-Revert": "Auto stash before revert of \"{0}\"",
-
     "Ignore": "Ignore",
     "IgnoreFile": "Ignore '{0}'",
     "IgnoreNFiles": "Ignore {0} files",
-
     "AllFilesWithSameExtension": "All files with the extension '{0}'",
     "AllFilesInFolder": "All files in '{0}/'",
     "IgnoreAllFilesInFolder": "Ignore all files in '{0}/'",
-
     "File-AlreadyExists": "File '{0}' already exists",
     "File-Blame": "File Blame",
     "File-CanOnlyEditText": "Only text files can be edited",
@@ -443,7 +418,6 @@
     "File-StatusRenamedFrom": "from",
     "File-StatusRenamedTo": "to",
     "File-UnstageAndRemove": "Unstage and delete file",
-
     "Folder-CherryPickFromStash": "Apply stashed folder",
     "Folder-NewFile": "Create a file in this folder",
     "Folder-MarkConflictedFilesAsResolved": "Mark all resolved",
@@ -453,7 +427,6 @@
     "Folder-UnstageAll": "Unstage folder",
     "Folder-DiscardAllChanges": "Discard all changes in folder",
     "Folder-ExportChangesToPatch": "Create Patch from changes in directory",
-
     "FileHistory": "File History",
     "FileHistory-AuthorInfo": "Authored by {0} on {1}",
     "FileHistory-CannotLinkToGraph": "This commit is not visible on the graph",
@@ -463,7 +436,6 @@
     "FileHistory-BlameButtonLabel": "Blame",
     "FileHistory-ShowBlame": "Show blame details",
     "FileHistory-UnknownAuthorName": "Unknown",
-
     "FuzzyFinder-DefaultPlaceHolder": "Search for commands and actions (e.g., Open Repo)",
     "FuzzyFinder-BlamePlaceholder": "Search for a file to view who did what (i.e. its blame)",
     "FuzzyFinder-CheckoutPlaceholder": "Search for a branch to checkout",
@@ -484,7 +456,6 @@
     "FuzzyFinder-SwitchProfilePlaceholder": "Search for a profile to switch to",
     "FuzzyFinder-SwitchThemePlaceholder": "Search for a theme to switch to",
     "FuzzyFinder-ViewFilePlaceholder": "Search for a file to view",
-
     "FuzzyFinder-BlameFilePrefix": "Blame",
     "FuzzyFinder-CheckoutRefPrefix": "Checkout",
     "FuzzyFinder-ConfigureGitFlow": "Configure Gitflow",
@@ -526,19 +497,15 @@
     "FuzzyFinder-ViewWorkingDirectoryChangesKeywords": "changes wip workdir working",
     "FuzzyFinder-GenerateCommitMessage": "Generate Commit Message",
     "FuzzyFinder-GenerateCommitMessageKeywords": "chatgpt openai",
-
     "CommitSearch-ClearFilter": "Clear filter",
     "CommitSearch-Placeholder": "find commit",
     "CommitSearch-ResultsText": "{0} of {1}",
     "CommitSearch-NoResults": "0 results",
     "CommitSearch-NoAuthorsFound": "No authors found",
-
     "CommitFilter-FilterPlaceholder": "filter the graph by team or author",
     "CommitFilter-Authors": "authors",
     "CommitFilter-Teams": "teams",
-
     "GARLIC-RequestCancelledFromCredentialChange": "Request cancelled, credentials have changed for {0}",
-
     "GitHook-ExitCode": "Git Hook exited with {0}",
     "GitHook-ExitedSuccessfully": "{0}: Exited with code 0",
     "GitHooks-ExitedSuccessfully": "Git Hooks exited with code 0: {0}",
@@ -548,7 +515,6 @@
     "GitHook-PrePushDidNotRun": "Pre-push hook did not run",
     "GitHook-PrePushDidNotRunReason": "{0} does not exist on {1}",
     "GitHook-FailedToRun": "Git Hook failed to run.",
-
     "LeftPanel-CheckedOut": "Checked out",
     "LeftPanel-ClearFilter": "Clear filter",
     "LeftPanel-Collapse": "Collapse Panel",
@@ -558,11 +524,9 @@
     "LeftPanel-Hide": "Hide in the graph",
     "LeftPanel-Show": "Show in the graph",
     "LeftPanel-StopSoloing": "Stop soloing this branch",
-
     "LeftPanelAddUserForkRow-YouHaveAFork": "You have a fork of this repo",
     "LeftPanelAddUserForkRow-AddRemoteButtonLabel": "Add",
     "LeftPanelAddUserForkRow-AddThisFork": "Add this fork as a remote",
-
     "TextOperation-Cut": "Cut",
     "TextOperation-Copy": "Copy",
     "TextOperation-CopyFileContentsToClipboard": "Copy file contents to clipboard",
@@ -570,9 +534,9 @@
     "TextOperation-Paste": "Paste",
     "TextOperation-Delete": "Delete",
     "TextOperation-SelectAll": "Select All",
-
     "ResizePanel": "Resize Panel",
-
+    "Hide": "Hide",
+    "Show": "Show",
     "FastForwardBranchToBranch": "Fast forward branch {0} to branch {1}",
     "MergedBranchToRef": "Merge branch '{0}' into {1}",
     "MergedRemoteBranchToRef": "Merge remote-tracking branch '{0}' into {1}",
@@ -603,13 +567,11 @@
     "TakeIncomingNFiles": "Take incoming ({0}) {1} files",
     "TakeCurrentNFiles": "Take current ({0}) {1} files",
     "UnsupportedRebaseMessage": "An external application is performing a rebase on this repository",
-
     "ViewExternalEditorSettings": "View external editor settings",
     "ViewDiffToolSettings": "View diff tool settings",
     "ViewMergeToolSettings": "View merge tool settings",
     "ViewShPathSettings": "View Settings",
     "ViewTerminalSettings": "View external terminal settings",
-
     "CherryPickFileFromStash": "Apply stashed file",
     "CherryPickNFilesFromStash": "Apply {0} files from stash",
     "DiscardThisHunk": "Discard Hunk",
@@ -647,6 +609,7 @@
     "GenerateButtonLabel": "Generate",
     "LogInButtonLabel": "Log In",
     "OpenNowButtonLabel": "Open Now",
+    "ProceedButtonLabel": "Proceed",
     "InitializeButtonLabel": "Initialize",
     "DeleteButtonLabel": "Delete",
     "DeleteAndCommitLabel": "Delete & Commit",
@@ -657,6 +620,7 @@
     "ResetFilesButtonLabel": "Reset Files",
     "SaveAncesor": "Save Ancestor",
     "CommitAndMergeButtonLabel": "Commit and Merge",
+    "DisabledMergeButtonLabel": "No changes to merge",
     "DropCommitButtonLabel": "Drop commit",
     "DropCommitsButtonLabel": "Drop commits",
     "AbortMergeButtonLabel": "Abort Merge",
@@ -670,6 +634,8 @@
     "CommitButtonLabelSingular": "Commit changes to 1 file",
     "CommitButtonLabelSkipHooks": "Commit and skip hooks",
     "ForcePushButtonLabel": "Force Push",
+    "ForcePushWithoutLeaseButtonLabel": "Force Push Anyway",
+    "ForcePushWithLeaseButtonLabel": "Force Push",
     "SupportButtonLabel": "Support",
     "Communication-SupportFormSubject": "GitKraken Client Support Request",
     "Communication-FeedbackFormSubject": "GitKraken Client Feedback",
@@ -702,16 +668,16 @@
     "UpgradeToProButtonLabel": "Upgrade to GitKraken Pro",
     "SeePlansButtonLabel": "See GitKraken Plans",
     "StartTrialButtonLabel": "Start a Free Trial",
-    "TrialStatus": "{0} of GitKraken Trial Remaining - Upgrade Now",
+    "TrialStatus1Day": "1 day of GitKraken Trial Remaining - Upgrade Now",
+    "TrialStatusXDays": "{0} days of GitKraken Trial Remaining - Upgrade Now",
+    "UnregisteredTrialStatus1Day": "1 day of free private repository access remaining - Sign Up to start a {0}-day trial",
+    "UnregisteredTrialStatusXDays": "{1} days of free private repository access remaining - Sign Up to start a {0}-day trial",
     "SelectPlaceholder": "Select...",
     "SignIntoMyAccount": "Sign into my account",
-
     "ConfirmButtonLabel": "Confirm",
     "RemoveButtonLabel": "Remove",
-
     "Option-None": "<None>",
     "Option-UseMergeTool": "<Use Merge Tool>",
-
     "ActivityLogButtonTooltip": "Activity Logs",
     "UndoValidButtonTooltip": "Undo {0}",
     "RedoValidButtonTooltip": "Redo {0}",
@@ -737,12 +703,10 @@
     "CliButtonTooltip-terminalPanel": "Show/Hide Terminal",
     "FuzzyFinderButtonTooltip": "Command Palette ({0} + P)",
     "KeyBindingsTooltip": "Keyboard Shortcuts ({0} + /)",
-
     "Rebasing-LoadingOverlayLabel": "Rebasing",
     "Rebasing-CommitLabel": "Rebasing commit {0} out of {1}",
     "Rebasing-AutoStashLabel": "Stashing uncommitted changes",
     "Rebasing-PoppingAutoStashLabel": "Popping auto stashed changes",
-
     "ReflogAction": "Action with reflog message \"{0}\"",
     "ReflogActionCommit": "Commit \"{0}\"",
     "ReflogActionCommitAmend": "Commit amend \"{0}\"",
@@ -754,12 +718,10 @@
     "ReflogActionDeleteBranchTracking": "Delete branch \"{0}\" tracking \"{1}\"",
     "ReflogActionDeleteBranch": "Delete branch \"{0}\"",
     "ReflogActionRemoveRemote": "Remove remote \"{0}\"",
-
     "ConflictsHeader-Into": "into",
     "ConflictsHeader-Merging": "Merging",
     "ConflictsHeader-Onto": "onto",
     "ConflictsHeader-Rebasing": "Rebasing",
-
     "ContextMenu-AddToDictionary": "Add to Dictionary",
     "ContextMenu-AmendOrRewordCommitMessage": "Edit commit message",
     "ContextMenu-AmendStashMessage": "Edit stash message",
@@ -772,6 +734,7 @@
     "ContextMenu-CloseOtherTabs": "Close other tabs",
     "ContextMenu-CloseTabsRight": "Close tabs to the right",
     "ContextMenu-CommitNotInGraph": "Can't jump to commit in graph, because it's not visible.",
+    "ContextMenu-CompareAgainstWorkingCopy": "Compare commit against working directory",
     "ContextMenu-CopyBranchName": "Copy branch name",
     "ContextMenu-CopyDeepLinkFailed": "Failed to copy deep link",
     "ContextMenu-CopyDeepLinkFailedMissingInfo": "No commit sha, branch name or tag name found.",
@@ -831,7 +794,7 @@
     "ContextMenu-IssueCopyCardLink": "Copy card link",
     "ContextMenu-IssueCopyIssueLink": "Copy issue link",
     "ContextMenu-IssueViewIssueInGitHub": "View issue in GitHub",
-    "ContextMenu-IssueViewIssueInGitHubEnterprise": "View issue in GitHub Enterprise",
+    "ContextMenu-IssueViewIssueInGitHubEnterprise": "View issue in GitHub Enterprise Server",
     "ContextMenu-IssueViewIssueInGitLab": "View issue in GitLab",
     "ContextMenu-IssueViewCardInGKBoards": "View card in GitKraken Boards",
     "ContextMenu-IssueViewCardInTrello": "View card in Trello",
@@ -907,17 +870,14 @@
     "ContextMenu-SquashXCommits": "Squash {0} commits",
     "ContextMenu-UnfavoriteRepository": "Unfavorite repository",
     "ContextMenu-ViewServiceRemoteInBrowser": "View {0} on {1}",
-
     "StashDeletion-Complete": "Stash Deletion Complete",
     "StashDeletion-SuccessfullyDeletedNStashes": "Successfully deleted {0} out of {1} stashes.",
-
     "Toolbar-CloseSubmodule": "Close Submodule",
     "Toolbar-CloseRepository": "Close Repository",
     "Toolbar-PushNotAvailableInDetachedHead": "Push is not available when in a detached HEAD state",
     "Toolbar-PullMergeNotAvailableInDetachedHead": "Pull (fast-forward if possible) is not available when in a detached HEAD state",
     "Toolbar-PullFastForwardOnlyNotAvailableInDetachedHead": "Pull (fast-forward only) is not available when in a detached HEAD state",
     "Toolbar-PullRebaseNotAvailableInDetachedHead": "Pull (rebase) is not available when in a detached HEAD state",
-
     "BreadCrumbs-FavoritesHeader": "Favorites",
     "BreadCrumbs-ManageWorkspaces": "Manage Workspaces",
     "BreadCrumbs-ViewWorkspace": "View workspace",
@@ -927,7 +887,6 @@
     "BreadCrumbs-WorkspacesCount": "{0} workspaces",
     "BreadCrumbs-WorkspacesHeader": "Workspace / {0}",
     "BreadCrumbs-RecentsHeader": "Recently opened",
-
     "Profile-AddAProfile": "Add a profile",
     "Profile-AddProfile": "Add Profile",
     "Profile-AuthorEmail": "Author Email",
@@ -969,7 +928,6 @@
     "Profile-Synced": "Synced",
     "Profile-Type": "Type",
     "Profile-Unlock": "Unlock profile switching by upgrading to Pro",
-
     "ProfileAccountMenu-Account": "Account",
     "ProfileAccountMenu-CommitSignature": "Commit signature",
     "ProfileAccountMenu-ManageAccount": "Manage account",
@@ -979,9 +937,7 @@
     "ProfileAccountMenu-Organization": "Organization",
     "ProfileAccountMenu-SignIntoDifferentAccount": "Sign into a different account",
     "ProfileAccountMenu-SignIn": "Sign in",
-
     "Profiles": "Profiles",
-
     "RefBar-FilterIconToolTip": "Filtered results",
     "RefBar-GroupGitFlow": "GITFLOW",
     "RefBar-GroupGitHubAction": "GITHUB ACTIONS",
@@ -1012,14 +968,10 @@
     "RefBar-AddSubmodule": "Add a new submodule",
     "Refbar-BranchActions": "Branch actions",
     "RefBar-TagActions": "Tag actions",
-
     "Repo-SuccessfullyCreatedRepo": "Successfully created repo",
-
     "PullRequest-SuccessfullyCreatePullRequest": "Successfully created pull request",
     "ViewOnHostingService": "View on {0}",
-
     "GitHubActionBar-Menu": "GitHub Action actions",
-
     "PullRequestBar-Assignees": "Assignees",
     "PullRequestBar-Reviewers": "Reviewers",
     "PullRequestBar-Labels": "Labels",
@@ -1034,7 +986,6 @@
     "PullRequestBar-ViewContinuousIntegrationResultInBrowser": "View {0}'s latest build",
     "PullRequestBar-AddPullRequestRemote": "Add {0} as a remote",
     "PullRequestBar-AddPullRequestRemoteAndCheckoutPRHead": "Add remote and checkout {0}",
-
     "PullRequestFilter-CancelLabel": "Cancel",
     "PullRequestFilter-CreateFilter": "Create a filter",
     "PullRequestFilter-CreateFilterLabel": "Create Pull Request Filter",
@@ -1050,7 +1001,6 @@
     "PullRequestFilter-RemoveFilterLabel": "Remove",
     "PullRequestFilter-RemoveFilterPrompt": "Do you want to remove the \"{0}\" filter?",
     "PullRequestFilter-SearchPlaceholder": "Search pull requests",
-
     "PullRequestFilter-SyntaxAssignee": "assignee",
     "PullRequestFilter-SyntaxAssigneeLabel": "Assignee:",
     "PullRequestFilter-SyntaxAuthorLabel": "Author:",
@@ -1089,7 +1039,6 @@
     "PullRequestFilter-SyntaxTrue": "true",
     "PullRequestFilter-SyntaxUpdatedLabel": "Updated:",
     "PullRequestFilter-SyntaxUserName": "user_name",
-
     "PullRequestPanel-AddAssignee": "Add assignee...",
     "PullRequestPanel-AddAssignees": "Add assignees...",
     "PullRequestPanel-AddLabels": "Add labels...",
@@ -1128,7 +1077,6 @@
     "PullRequestPanel-AzureDevopsEditPullRequestWarning": "Your pull request title and/or description will not be transferred to AzureDevops if you choose to Edit on AzureDevops",
     "PullRequestPanel-GitHubEditPullRequestWarning": "Your pull request reviewers will not be transferred to GitHub if you choose to Edit on GitHub",
     "PullRequestPanel-GitHubDraftPullRequestTooltip": "Draft pull requests are available in public repositories with GitHub Free for organizations and legacy per-repository billing plans, and in public and private repositories with GitHub Team and GitHub Enterprise Cloud.",
-
     "PullRequestTooltip-WantsToMerge": "wants to merge",
     "PullRequestTooltip-Into": "into",
     "PullRequestTooltip-BuildStatus": "Build Status:",
@@ -1153,7 +1101,6 @@
     "IssueTooltip-Status": "Status",
     "IssueTooltip-Column": "Column",
     "IssueTooltip-None": "None",
-
     "IssueViewPanel-Branches": "Branches",
     "IssueViewPanel-Repository": "Repository",
     "IssueViewPanel-BranchName": "Branch name",
@@ -1193,7 +1140,6 @@
     "JiraFilterForm-JqlMissingProject": "JQL must contain 'project = \"{0}\"'",
     "JiraFilterForm-JqlPlaceholder": "Enter a JQL query",
     "JiraFilterForm-ValidateError": "Unable to validate query with Jira",
-
     "MemberMenu-AreYouSureRemoveMember": "Are you sure you want to remove \"{0}\" from your organization?",
     "MemberMenu-CurrentOwner": "Current Owner",
     "MemberMenu-EmailsDontMatch": "Emails do not match",
@@ -1211,15 +1157,10 @@
     "MemberMenu-TransferWarning": "Making {0} the owner of this orgnaization is irreversible. You will be downgraded to an admin, or a billing contact if there are not enough licenses. Billing contacts do not consume a license.",
     "MemberMenu-SelectToTransfer": "Select a member to transfer",
     "MemberMenu-VerifyTransferOwnership": "To verify, please type \"{0}\" below.",
-
     "RemoteBar-Menu": "Remote actions",
-
     "ShPath-ConfirmPath": "This repo needs sh to run GitHooks. Is {0} the path to your sh?",
-
     "StashBar-Menu": "Stash actions",
-
     "WorkDirMessageInput-WIPPlaceholder": "// WIP",
-
     "Timeline-1HourAgo": "1 hour ago",
     "Timeline-NHoursAgo": "{0} hours ago",
     "Timeline-Yesterday": "yesterday",
@@ -1231,20 +1172,31 @@
     "Timeline-1YearAgo": "a year ago",
     "Timeline-NYearsAgo": "{0} years ago",
     "Timeline-ArbitrarilyLongAgo": "Stop scrolling please",
-
     "Graph-AdjustCommitCount": "Displaying {0} commits. Adjust this setting in ",
     "Graph-Preferences": "Preferences",
+    "Graph-IsLoadingRows": "Loading...",
+    "Graph-NoCommits": "No commits",
+    "Graph-WorkInProgress": "Work in progress",
     "GraphHeader-BranchTag": "BRANCH / TAG",
+    "GraphHeader-Changes": "CHANGES",
     "GraphHeader-CommitAuthor": "AUTHOR",
     "GraphHeader-CommitDateTime": "COMMIT DATE / TIME",
     "GraphHeader-CommitGraph": "GRAPH",
     "GraphHeader-CommitMessage": "COMMIT MESSAGE",
     "GraphHeader-CommitSha": "SHA",
-    "GraphHeader-EditColumns": "Add/Remove Columns",
+    "GraphHeader-EditColumns": "Column settings",
+    "GraphHeader-HiddenRefs-btn": "Hidden Branches / Tags",
     "OptionalGraphZone-CommitAuthor": "Author",
     "OptionalGraphZone-CommitDateTime": "Date / Time",
     "OptionalGraphZone-CommitSha": "Sha",
-
+    "OptionalGraphZone-CommitChanges": "Changes",
+    "OptionalGraphZone-CommitMessage": "Commit message",
+    "OptionalGraphZone-Graph": "Graph",
+    "OptionalGraphZone-Ref": "Branch / Tag",
+    "Ref-Current": "current",
+    "Ref-Local": "local",
+    "Ref-Remote": "Remote Branch",
+    "Ref-Tag": "Tag",
     "RightPanel-FilterFiles": "Filter files",
     "RightPanel-MergeConflictsDetected": "Merge conflicts detected",
     "RightPanel-1ChangeOn": "1 file change on",
@@ -1263,31 +1215,29 @@
     "RightPanel-View1FileConflictInWorkingDirectory": "1 file conflict in working directory",
     "RightPanel-ViewNFileConflictsInWorkingDirectory": "{0} file conflicts in working directory",
     "RightPanel-ViewAllFiles": "View all files",
-
     "StagingPanel-Amend": "Amend",
     "StagingPanel-WarningDetachedHeadState": "You are in a detached HEAD state",
     "StagingPanel-DetachedHeadStateExplanation": "If you checkout another branch or commit, you might lose any commits created in a detached HEAD state",
     "CommitMessage-CommitMessageLabel": "Commit Message",
     "CommitMessage-SummaryPlaceholder": "Summary",
     "CommitMessage-DescriptionPlaceholder": "Description",
-
     "CommitMessage-GeneratingMessage": "Generating Message",
     "CommitMessage-GenerateCommitMessage": "Generate a commit message with AI",
     "CommitMessage-NoStagedChanges": "You must have staged changes to generate a commit message.",
-
     "CommitDetailPanel-AndTheWIP": "and the WIP",
     "CommitDetailPanel-DiffBetweenACommitAndTheWIP": "Viewing diff between a commit and the WIP",
     "CommitDetailPanel-DiffBetweenCommitsTitle": "Viewing merged diff of {0} commits",
     "CommitDetailPanel-DiffBetweenTwoCommits": "Viewing diff between 2 commits",
-    "UncommittedFileList-StagedFilesTitleSummary": "Staged Files ({0})",
-    "UncommittedFileList-UnstagedFilesTitleSummary": "Unstaged Files ({0})",
-    "UncommittedFileList-ConflictedFilesTitleSummary": "Conflicted Files ({0})",
-    "UncommittedFileList-UnconflictedFilesTitleSummary": "Resolved Files ({0})",
+    "CommitDetailPanel-WorkingDirectory": "Working directory",
+    "CommitDiffSection-DateByAuthorName": "{0} by {1}",
     "CommitDiffSection-NFilesAdded": "{0} added",
     "CommitDiffSection-NFilesDeleted": "{0} deleted",
     "CommitDiffSection-NFilesModified": "{0} modified",
     "CommitDiffSection-NFilesRenamed": "{0} renamed",
-
+    "UncommittedFileList-ConflictedFilesTitleSummary": "Conflicted Files ({0})",
+    "UncommittedFileList-StagedFilesTitleSummary": "Staged Files ({0})",
+    "UncommittedFileList-UnconflictedFilesTitleSummary": "Resolved Files ({0})",
+    "UncommittedFileList-UnstagedFilesTitleSummary": "Unstaged Files ({0})",
     "FileViewPanel-DiffView": "Diff View",
     "FileViewPanel-EditInWorkDir": "Edit in working directory",
     "FileViewPanel-EditThisFile": "Edit this file",
@@ -1303,27 +1253,21 @@
     "FileViewPanel-IgnoreWhiteSpace": "Ignore white space",
     "FileViewPanel-History": "History",
     "FileViewPanel-Blame": "Blame",
-
     "PendingInteractiveRebasePanel-InteractiveRebase": "Interactive Rebase",
     "PendingInteractiveRebasePanel-Reset": "Reset",
     "PendingInteractiveRebasePanel-CancelRebase": "Cancel Rebase",
     "PendingInteractiveRebasePanel-StartRebase": "Start Rebase",
     "PendingInteractiveRebasePanel-UpdateMessage": "Update Message",
-
     "FileContentsPanel-Binary": "Binary file",
     "FileContentsPanel-Deleted": "File was deleted",
     "FileContentsPanel-EmptyDiff": "File contents are unchanged.",
-
     "FileNodeListControls-FullPath": "Path",
     "FileNodeListControls-SortByNameLabel": "Sort by filename",
     "FileNodeListControls-TreeView": "Tree",
-
     "FileNodeListHeader-CollapseAll": "Collapse All",
     "FileNodeListHeader-ExpandAll": "Expand All",
-
     "FileNode-1HiddenSelection": "1 file selected",
     "FileNode-NHiddenSelections": "{0} files selected",
-
     "Merge-AutoResolved": "Merge tool automatically resolved your conflict",
     "Merge-A": "A",
     "Merge-B": "B",
@@ -1349,11 +1293,9 @@
     "Merge-UpgradeText": "to edit file output",
     "Merge-PremiumMergeDescription": "Upgrade GitKraken and further simplify merge conflict resolution with the ability to directly edit the output without ever leaving the application.",
     "Merge-XConflicts": "({0} conflicts)",
-
     "DiffImage-ShowDiffOverlay": "Diff overlay old image",
     "DiffImage-OldImage": "Old image",
     "DiffImage-NewImage": "New image",
-
     "Patch-Apply": "Apply patch",
     "Patch-ApplyingPatch": "Applying patch",
     "Patch-OpenPatchFile": "Open patch file",
@@ -1366,15 +1308,12 @@
     "Patch-CreationSuccessful": "Patch created successfully",
     "Patch-ApplicationSuccessful": "Patch applied successfully",
     "Patch-CreationSuccessfulMessage": "Patch file saved to {0}",
-
     "RefZone-EnterBranchName": "enter branch name",
     "RefZone-EnterTagName": "enter tag name",
     "RefZone-LocalRefLabel": "local",
-
     "ChangeRepo-CloneRepo": "Clone",
     "ChangeRepo-InitRepo": "Init",
     "ChangeRepo-OpenRepo": "Open",
-
     "OpenRepo-AddProjectFolder": "Add a Projects Folder",
     "OpenRepo-AddProjectFolderTooltip": "Add a folder in which you keep multiple repositories, so GitKraken can help you open them quickly",
     "OpenRepo-BrowseForProjectDirectory": "Browse for project directory",
@@ -1391,7 +1330,6 @@
     "OpenRepo-RecentlyOpened": "Recently Opened",
     "OpenRepo-SearchingForRepos": "Looking for repos",
     "OpenRepo-SearchBarPlaceholder": "Filter repos by name",
-
     "CloneRepo-CloneARepo": "Clone a Repo",
     "CloneRepo-CloneDestinationPath": "Where to clone to",
     "CloneRepo-ClonedRepoName": "Full path",
@@ -1403,7 +1341,6 @@
     "CloneRepo-CloneViaUrl": "Clone with URL",
     "CloneRepo-CollapseSshSettings": "Hide SSH settings",
     "CloneRepo-ExpandSshSettings": "Show SSH settings",
-
     "InitRepo-CreateRepoButtonLabel": "Create Repository",
     "InitRepo-CreateRepoAndCloneButtonLabel": "Create Repository and Clone",
     "InitRepo-CreateRepoTarget": "Initialize in",
@@ -1422,10 +1359,8 @@
     "InitRepo-PublicAccess": "Public",
     "InitRepo-PrivateAccess": "Private",
     "InitRepo-PrivateRepoNeedsAnAccount": "You'll be prompted to start a free trial to access private repos.",
-
     "FileHistory-NothingFound": "Searched until {0} ({1})",
     "FileHistory-ContinueLooking": "Go Deeper",
-
     "GeneralPreferences": "General",
     "GeneralPreferences-AllowTeamVisibility": "Share WIP status with my team",
     "GeneralPreferences-AllowTeamVisibilityHelp": "Allow team members to see which branches and files I'm working on to avoid conflicts.",
@@ -1467,18 +1402,14 @@
     "GeneralPreferences-OpenFileInHost": "Open Files and Directories in Windows",
     "GeneralPreferences-OpenFileInHostHelp": "If enabled, all files and directories GitKraken opens will open in the Windows default program for that file type.",
     "GeneralPreferences-HideWorkspaceIcon": "Hide Workspace tab bar icon",
-
     "SyncWithSystem": "Sync with system",
-
     "RepoSpecificPreferences": "Repo-Specific Preferences",
-
     "GitConfig": "Git Config",
     "GitConfig-configureGit-title": "Confirm your Git author details",
     "GitConfig-configureGit-desc": "This is the name and email you sign your commits with",
     "GitConfig-Email": "Author Email",
     "GitConfig-Name": "Author Name",
     "GitConfig-AutoCRLF": "AutoCRLF",
-
     "ConfigureGitForm-title": "Confirm your Git details",
     "ConfigureGitForm-desc": "This is the name and email you sign your commits with.",
     "ConfigureGitForm-AuthorEmail": "Author email",
@@ -1488,7 +1419,6 @@
     "ConfigureGitForm-SaveGitAuthorDetails": "Use these for Git commits",
     "ConfigureGitForm-SampleCommit": "Sample commit",
     "ConfigureGitForm-SampleCommit-commitMessage": "Delivering tests straight to production.",
-
     "WelcomeForm-title": "Welcome to GitKraken Client",
     "WelcomeForm-desc": "The most intuitive, flexible and seamless cross-platform experience for working with Git repositories.",
     "WelcomeForm-OpenARepository": "Let's open a repository!",
@@ -1497,24 +1427,19 @@
     "WelcomeForm-EULA": "EULA",
     "WelcomeForm-ConnectServices": "Connect services",
     "WelcomeForm-AlreadyAnUser": "Already a GitKraken user, or invited to join a team?",
-
     "OnboardingCreateRepoForm-title": "Create a repository",
     "OnboardingCreateRepoForm-desc": "Initialize a repository on your machine",
-
     "OnboardingLoginForm-title": "Welcome to GitKraken",
     "OnboardingLoginForm-desc": "Automatically connect to any of your favorite hosting services for quick access to your repositories, pull requests, issues, actions and more!",
-
     "OnboardingOpenRepoForm-title": "Open a repository",
     "OnboardingOpenRepoForm-desc": "Open a repo on my machine",
     "OnboardingOpenRepoForm-BrowseYourRepos": "Browse your repos",
     "OnboardingOpenRepoForm-OpenTheRepo": "Open the repo!",
     "OnboardingOpenRepoForm-LocalPath": "Local path",
-
     "RepoPathSelector-ChooseYourRepoPath": "Choose your repo location",
     "RepoPathSelector-LocalPathIsRequiredError": "Local path is required",
     "RepoPathSelector-RepoIsEmptyError": "No repository found in selected path",
     "RepoPathSelector-RepoPathError": "Cannot open the repo: {0}",
-
     "OnboardingCloneRepoForm-title": "Clone a repository",
     "OnboardingCloneRepoForm-desc": "Clone a repo from the internet",
     "OnboardingCloneRepoForm-CloneTheRepo": "Clone the repo!",
@@ -1522,33 +1447,21 @@
     "OnboardingCloneRepoForm-CloneDestinationPath": "Choose the location you want to clone to",
     "OnboardingCloneRepoForm-CloneARepoWithUrl": "Clone a repo with a URL",
     "OnboardingCloneRepoForm-IntegrationConnected": "{0} connected!",
-
     "Onboarding-NeedAnAccountToStartATrial": "An account is required to try this feature. You can create a new one or use your existing account to log in.",
     "Onboarding-NeedToPurchaseALicense": "Your trial period has expired. You must purchase a license to use this feature.",
-
     "OnboardingGroupReposForm-title": "Create a GitKraken Workspace",
     "OnboardingGroupReposForm-desc": "Group your repositories together to help manage your projects",
-
-    "OnboardingGroupRepo-LocalWorkspace": "Local Workspace",
-    "OnboardingGroupRepo-CloudWorkspace": "Cloud Workspace",
-
-    "Onboarding-CloudWorkspaceNeedAnAccount": "In order to use **Cloud Workspaces** you will need to be signed in.",
-
+    "Onboarding-CloudWorkspaceNeedAnAccount": "In order to use {0} you will need to be signed in.",
     "Onboarding-CreateTeamForm-title": "Create team",
     "Onboarding-CreateTeamForm-desc": "Introduce a name and members to create a new team",
-
     "OnboardingConnectToProvidersForm-ConnectToProvider": "Connect to provider",
     "OnboardingConnectToProvidersForm-ConnectToProviderDesc": "You can connect to {0} to be able to start using it",
     "OnboardingConnectToProvidersForm-NoProviderSelected": "No provider selected",
     "OnboardingConnectToProvidersForm-ProviderAlreadyConnected": "Successfully connected",
     "OnboardingConnectToProvidersForm-Close": "Close",
-
     "OnboardingPromptForm-title": "Additional Information Required",
-
     "OnboardingLoadingForm-desc": "Please wait...",
-
     "WizardForm-backBtn": "BACK",
-
     "PurchaseReceipt-Updating": "updating",
     "PurchaseReceipt-Type-Suite": "GitKraken {0} Suite",
     "PurchaseReceipt-Type-Gitgui": "GitKraken Client {0}",
@@ -1577,7 +1490,6 @@
     "PurchaseReceipt-Total": "Total",
     "PurchaseReceipt-NewIntervalTotal": "New {0} Total",
     "PurchaseReceipt-NextChargeOn": "Next charge on {0}",
-
     "SSH": "SSH",
     "SSHKey": "SSH Key",
     "SSHConfig": "SSH Config",
@@ -1587,18 +1499,30 @@
     "SSHConfig-SSHPrivateKey": "SSH Private Key",
     "SSHConfig-SSHPublicKey": "SSH Public Key",
     "SSHConfig-SSHKeySaveLocation": "SSH Key save location",
+    "Authentication-KeyTypePublic": "Public",
+    "Authentication-KeyTypePrivate": "Private",
     "Authentication-ForgetAllCredentials": "Forget all Usernames and Passwords",
     "Authentication-ForgetAll": "Forget All",
     "Authentication-NoCredentialsToRemove": "GitKraken has no stored user/pass credentials to remove",
-
+    "Ssh-VerificationInfoNoAllowedSignersFileConfig": "gitconfig: gpg.ssh.allowedSignersFile needs to be configured and exist for ssh signature verification",
+    "Ssh-VerificationInfoNoSignature": "No signature",
+    "Ssh-VerificationInfoBadSignature": "Bad signature",
+    "Ssh-VerificationInfoUnkownFailure": "Verification failed for unknown reasons",
+    "Ssh-VerificationInfoValidKnown": "Verification completed successfully",
+    "Ssh-VerificationInfoValidUnknown": "Verification failed because the signature is valid but unknown",
+    "Ssh-VerificationInfoUnverified": "Verification failed becase the signature could not be verified",
+    "Ssh-VerificationKeyId": "Key ID:",
+    "Ssh-VerificationKeyType": "Key Type:",
+    "Ssh-VerificationPrincipalId": "Principal ID:",
+    "Ssh-VerificationTitle": "SSH Signature Details",
     "Service": "Service",
     "Services": "Services",
     "Services-AddAndCopy": "Add SSH key and copy to clipboard",
     "Services-AddedDate": "added {0}",
     "Services-AddExistingSSHKey": "Add existing SSH key",
     "Services-AddToService": "Add to {0}",
-    "Services-BrowseForPublicSSHKey": "Browse for **Public** SSH Key",
-    "Services-BrowseForPrivateSSHKey": "Browse for **Private** SSH Key",
+    "Services-BrowseForPublicSSHKey": "Browse for {0} SSH Key",
+    "Services-BrowseForPrivateSSHKey": "Browse for {0} SSH Key",
     "Services-ClearSSHKey": "Stop Using",
     "Services-Connect": "Connect",
     "Services-Connected": "Connected",
@@ -1652,10 +1576,10 @@
     "Services-UsingNone": "No SSH settings detected. You can add an SSH Key to {0} below.",
     "Services-UsingQuestion": "Connect {0}",
     "Services-IntegrationUpgradeDescription": "Clone, create pull requests, and add remotes for your {0} repos without ever leaving GitKraken Client",
-    "Services-GitHubEnterpriseServerUpgrade": "Upgrade to connect your GitHub Enterprise server",
-    "Services-GitHubEnterpriseServerTrial": "Start a free trial to connect your GitHub Enterprise server",
-    "Services-BitbucketServerUpgrade": "Upgrade to connect your Bitbucket server",
-    "Services-BitbucketServerTrial": "Start a free trial to connect your Bitbucket server",
+    "Services-GitHubEnterpriseServerUpgrade": "Upgrade to connect your GitHub Enterprise Server",
+    "Services-GitHubEnterpriseServerTrial": "Start a free trial to connect your GitHub Enterprise Server",
+    "Services-BitbucketServerUpgrade": "Upgrade to connect your Bitbucket Server",
+    "Services-BitbucketServerTrial": "Start a free trial to connect your Bitbucket Server",
     "Services-GitLabSelfHostedUpgrade": "Upgrade to connect your GitLab self-managed instance",
     "Services-GitLabSelfHostedTrial": "Start a free trial to connect your GitLab self-managed instance",
     "Services-AzureDevopsUpgrade": "Upgrade to connect Azure DevOps",
@@ -1677,16 +1601,12 @@
     "Services-Error-HostDomainUnreachable": "Could not reach the specified Host Domain",
     "Services-Error-TokenInvalid": "Invalid token specified",
     "Services-Error-SaveAuthDataFailed": "Connecting to integration failed",
-
     "Integrations": "Integrations",
-
     "Shop-ShopTitle": "Account Management",
     "Shop-OpenInBrowser": "Open in browser",
-
     "Encoding-Label": "Encoding",
     "Encoding-Help": "Default encoding when reading or writing files in this repo.",
     "Encoding-Description": "Default encoding",
-
     "Experimental-Label": "Experimental",
     "ExperimentalPreferences-Disclaimer": "The features listed here are still under development and are provided to give you an early look at some of the new functionality we're working on at GitKraken. Experimental features may not work as intended and could be changed or removed in the future. These settings are entirely optional, so if you run into any issues, you can turn them off at any time.",
     "ExperimentalPreferences-Disclaimer2": "If you do experience issues, or have any other feedback, please reach out to our team at the link below to help us improve GitKraken Client.",
@@ -1694,12 +1614,17 @@
     "ExperimentalPreferences-GitBinarySubHeading": "Git Executable",
     "ExperimentalPreferences-GitBinaryDescription": "When this setting is enabled, GitKraken will utilize the Git executable instead of the NodeGit library for certain Git actions including fetching and committing. This may provide increased performance and compatibility with certain projects and development environments.",
     "ExperimentalPreferences-GitBinaryLabel": "Use Git Executable",
-    "ExperimentalPreferences-GitBinaryHelp": "Enabling this will utilize the Git executable selected below for executing Git commands",
+    "ExperimentalPreferences-GitBinaryHelp": "Enabling this will utilize the Git executable selected below for executing Git commands.",
+    "ExperimentalPreferences-GitBinaryHelpSshSign": "Signing commits with SSH will also be allowed.",
+    "ExperimentalPreferences-GitBinaryWarnSshSign": "Warning! GPG format has been changed to 'OPENPGP'. SSH signing is only supported with Git Executable.",
     "ExperimentalPreferences-GitSshNotDetected": "OpenSSH not detected. Interacting with SSH remotes while not using an SSH agent might fail.",
     "ExperimentalPreferences-GitSshVersion": "Incompatible OpenSSH version detected: {0} < {1}. Interacting with SSH remotes while not using an SSH agent may fail.",
+    "ExperimentalPreferences-GitVersionNotSupported": "Selected Git Executable version is lower than recommended: {0} < {1}. Using this version of Git may produce unexpected results.",
     "ExperimentalPreferences-PackagedGitDesc": "Bundled with GitKraken",
     "ExperimentalPreferences-SelectedGitInstance": "Git Executable",
     "ExperimentalPreferences-SelectedGitInstanceHelp": "The Git executable GitKraken will use to execute Git commands",
+    "ExperimentalPreferences-SelectedGitInstanceHelpMinGit": "The Git executable GitKraken will use to execute Git commands.\nThis is a minimal Git install, notably it is missing a full unix bash environment. If a full environment is required (for example, for Git hooks), we recommend installing a full Git distributable from {0} and selecting that here.",
+    "ExperimentalPreferences-SelectedGitInstanceHelpMinGitLinkText": "Git for Windows",
     "ExperimentalPreferences-SelectedGitInstanceHelpSshVersion": "The Git executable GitKraken will use to execute Git commands.\nDetected OpenSSH version: {0}",
     "ExperimentalPreferences-AiCommitMessageGenerationSubHeading": "AI Commit Message Generation",
     "ExperimentalPreferences-AiCommitMessageGenerationDescription": "With this setting enabled, GitKraken will have the ability to generate commit messages from any staged changes. You can access this feature from the Command Palette (⌘+P/Ctrl+P, or the magic wand icon {0} in the toolbar), or you can click the sparkle icon {1} in the commit panel when you have staged changes.",
@@ -1711,7 +1636,6 @@
     "ExperimentalPreferences-AiCommitMessageGenerationApiKeyLinkText": "Click here to view or create your OpenAI API key.",
     "ExperimentalPreferences-AiCommitMessageGenerationUserPromptLabel": "Prompt",
     "ExperimentalPreferences-AiCommitMessageGenerationUserPromptHelp": "Specifies the prompt to use to tell OpenAI how to structure or format the generated commit message",
-
     "CommitTemplate": "Commit Template",
     "CommitTemplates-Description": "Description",
     "CommitTemplates-Summary": "Summary",
@@ -1722,7 +1646,6 @@
     "CommitTemplates-CommitTemplateDocumentation": "Git commit template documentation",
     "CommitTemplates-UseTemplateForCommitMessages": "Apply this template to commit messages",
     "CommitTemplates-RemoveCommentsFromCommitMessages": "Remove comments from commit messages",
-
     "GitFlow": "Gitflow",
     "GitFlow-Branches": "Branches",
     "GitFlow-Prefixes": "Prefixes",
@@ -1768,7 +1691,6 @@
     "GitFlow-CannotFinishReleaseMissingDevelop": "{0} branch is required to finish release",
     "GitFlow-CannotFinishReleaseMissingMaster": "{0} branch is required to finish release",
     "GitFlow-CannotStartHotfixMissingMaster": "{0} branch is required to start hotfix",
-
     "GitHooks-BrowseForDirectory": "Select a directory to use",
     "GitHooks-Info": "The directory that Git hooks will use for this repository.",
     "GitHooks-Instructions": "Git hooks are shell scripts that execute after an event such as a commit or push. For more details, see the ",
@@ -1776,9 +1698,7 @@
     "GitHooks-Link": "GitKraken Git hooks documentation.",
     "GitHooks-Label": "Git Hooks",
     "GitHooks-Path": "Git Hooks directory",
-
     "GitHubActions-WorkflowFileExists": "{0} already exists",
-
     "GitHubActionsTemplates-DefaultCategory": "Basic templates",
     "GitHubActionTemplates-BlankTemplate": "Blank workflow",
     "GitHubActionsTemplates-AdditionalTemplatesCategory": "Additional templates",
@@ -1786,7 +1706,6 @@
     "GitHubActionTemplates-GreetFirstTimeContributors": "Greet first-time contributors",
     "GitHubActionTemplates-LabelPRsBasedOnFilesChanged": "Label PRs based on files changed",
     "GitHubActionTemplates-CheckForStaleIssuesAndPRs": "Check for stale issues and PRs",
-
     "Lfs-TrackingPatternPlaceholder": "Enter a pattern (e.g., *.zip)",
     "Lfs-AddTrackingPattern": "Add tracking pattern",
     "Lfs-ViewGitattributes": "View .gitattributes in editor",
@@ -1827,7 +1746,6 @@
     "Lfs-SuccessPrune": "LFS pruned successfully",
     "Lfs-SuccessCheckout": "LFS checkout successful",
     "Lfs-UpToDate": "LFS files are up to date",
-
     "submodule": "submodule",
     "Submodule": "Submodule",
     "Submodules-Label": "Submodules",
@@ -1880,13 +1798,15 @@
     "Submodule-InitializeSpecific": "Initialize {0}",
     "Submodule-DirInIndex": "Path '{0}' already exists in the index as a directory.",
     "Submodule-PathConflict": "Submodule {0} cannot be initialized because a submodule is already initalized at {1}",
-
     "ModifySubmodule-Submit": "Edit this submodule",
-
     "UIPreferences": "UI Customization",
     "UIPreferences-Theme": "Theme",
     "UIPreferences-ThemeDir": "Create custom themes by copying and modifying a dark or light theme template in your themes directory:",
+    "UIPreferences-ShowCommitMessageInGraph": "Show commit message in graph",
+    "UIPreferences-ShowCommitTreeInGraph": "Show commit tree in graph",
+    "UIPreferences-ShowRefInGraph": "Show branches and tags in graph",
     "UIPreferences-ShowCommitAuthorInGraph": "Show commit author in graph",
+    "UIPreferences-ShowCommitChangesInGraph": "Show commit changes in graph",
     "UIPreferences-ShowCommitDateTimeInGraph": "Show commit date/time in graph",
     "UIPreferences-ShowCommitShaInGraph": "Show commit sha in graph",
     "UIPreferences-ShowGloToolbarButton": "Show GitKraken Boards button in toolbar",
@@ -1895,6 +1815,11 @@
     "UIPreferences-ShowToolbarLabels": "Show toolbar icon labels",
     "UIPreferences-Spellcheck": "Enable spell checking",
     "UIPreferences-NotificationLocation": "Notification Location",
+    "UIPreferences-Locale": "Date/Time Locale",
+    "UIPreferences-LocaleHelp": "Restart required.",
+    "UIPreferences-DateTimeShortFormat": "Date/Time Short Format",
+    "UIPreferences-DateTimeShortFormatHelp": "{0}\nSee {1} for formatting options. Restart required.",
+    "UIPreferences-DateTimeShortFormatHelpLinkText": "here",
     "NotificationLocation-BottomLeft": "Bottom Left",
     "NotificationLocation-BottomRight": "Bottom Right",
     "NotificationLocation-TopLeft": "Top Left",
@@ -1904,7 +1829,9 @@
     "UIPreferences-UseAuthorInitialsForAvatars": "Display author initials instead of avatars",
     "UIPreferences-ShowGhostRefsOnHover": "Show ghost branch/tag when hovering over or selecting a commit",
     "UIPreferences-HighlightRowsOnRefHover": "Highlight associated rows when hovering over a branch",
-
+    "UIPreferences-CompactGraphColumnLayout": "Compact Graph Column",
+    "UIPreferences-ResetGraphColumnsToDefaultLayout": "Reset columns to default layout",
+    "UIPreferences-ResetGraphColumnsToCompactLayout": "Reset columns to compact layout",
     "Gpg-Passphrase": "GPG Passphrase",
     "Gpg-ReloadGpgKeys": "Reload GPG keys",
     "Gpg-VerificationInfoBadsig": "Verification failed because the signature was invalid",
@@ -1919,22 +1846,34 @@
     "Gpg-VerificationPrimaryUserId": "Primary User ID:",
     "Gpg-VerificationTitle": "GPG Signature Details",
     "Gpg-VerificationTrust": "Trust:",
-
     "GPGPreferences": "GPG",
     "GPGPreferences-CopyPublicKey": "Copy GPG Public Key",
     "GPGPreferences-ExpiredKeyLink": "How do I renew an expired key?",
     "GPGPreferences-CurrentKey": "Signing Key",
-    "GPGPreferences-CurrentKeyWarning": "A key is required for GPG signing.",
+    "GPGPreferences-CurrentKeyLink": "How to select SSH signing key?",
+    "GPGPreferences-CurrentKeyPathTitle": "Path to signing Key",
+    "GPGPreferences-CurrentKeyGpgWarning": "A key is required for GPG signing.",
+    "GPGPreferences-CurrentKeySshWarning": "A key is required for SSH signing.",
     "GPGPreferences-GpgBin": "GPG Program",
     "GPGPreferences-GpgBinHelp": "This is usually \"gpg\" or \"gpg2\" depending on the\n version you are using.\nYou can also browse for the path directly.",
     "GPGPreferences-GpgBinWarning": "Select a GPG program to sign with.",
     "GPGPreferences-GpgBinPathTitle": "Path to gpg",
+    "GPGPreferences-GpgFormat": "GPG Format",
+    "GPGPreferences-GpgFormat-Opengpg": "OPENPGP",
+    "GPGPreferences-GpgFormat-Ssh": "SSH",
     "GPGPreferences-GpgGenerateKey": "Generate new GPG Key",
     "GPGPreferences-GpgGenerateKeyHelp": "This will create a 4096 bit key with the name and email\n in your current profile that expires in 2 years.\nThis will also be set as your active signing key.",
     "GPGPreferences-GpgPassphrasePlaceholder": "Passphrase (optional)",
     "GPGPreferences-GpgSignCommits": "Sign Commits by Default",
     "GPGPreferences-GpgSignTags": "Sign Tags by Default",
-
+    "GPGPreferences-GpgSshProgram": "GPG SSH Program",
+    "GPGPreferences-GpgSshProgramLink": "Which program to select?",
+    "GPGPreferences-GpgSshProgramPathTitle": "Path to GPG SSH program",
+    "GPGPreferences-GpgSshProgramWarning": "Select a SSH program to sign with.",
+    "GPGPreferences-SshAllowedSignersFile": "Allowed Signers File",
+    "GPGPreferences-SshAllowedSignersFilePathTitle": "Path to allowed signers file",
+    "GPGPreferences-SshAllowedSignersFileLink": "Allowed Signers File Help",
+    "GPGPreferences-SshAllowedSignersFileWarning": "Select an allowed signers file to verify SSH signed commits",
     "EditorPreferences": "Editor",
     "EditorPreferences-DefaultFont": "{0} (Default)",
     "EditorPreferences-EOLCharacter": "End of Line Character",
@@ -1948,7 +1887,6 @@
     "EditorPreferences-SyntaxHighlighting": "Syntax Highlighting",
     "EditorPreferences-WordWrap": "Word Wrap",
     "EditorPreferences-TabSize": "Tab Size",
-
     "ToolbarLabels-Chipotle": "Chipotle",
     "ToolbarLabels-Fetch": "Fetch",
     "ToolbarButton-GloDropdownMessage": "Select a default board to open when clicking the Boards button on this repo",
@@ -1956,7 +1894,6 @@
     "ToolbarButton-TimelinesDropdownMessage": "Select a default timeline to open when clicking the Timelines button on this repo",
     "ToolbarButton-TimelinesDropdownFilterPlaceholder": "Filter timelines",
     "ToolbarButton-DropdownFilterNoResults": "No results",
-
     "TabsBar-CliTitle": "Terminal",
     "TabsBar-NewTabTitle": "New Tab",
     "TabsBar-NewTabDescription": "{0} + T",
@@ -1967,18 +1904,14 @@
     "TabsBar-SearchTabs": "Search Tabs",
     "TabsBar-WorkspaceIconTooltip": "Workspaces",
     "TabsBar-RepoManagementIconTooltip": "Repo Management",
-
     "ReleaseNotesTab-LoadingReleaseNotes": "Loading Release Notes",
-
     "PromptCreateFork": "Would you like to fork {0} on {1}?",
-
     "PromptDeletedFileConflict-KeepAncestor": "Keep Base Version",
     "PromptDeletedFileConflict-KeepModified": "Keep Modified Version",
     "PromptDeletedFileConflict-KeepNew": "Keep New Version",
     "PromptDeletedFileConflict-Message": "{0} has been modified on {1}, but deleted on {2}.",
     "PromptDeletedFileConflict-NoBaseNoPairMessage": "GitKraken was unable to determine whether to keep {0}, would you like to keep it?",
     "PromptDeletedFileConflict-RemoveFile": "Delete The File",
-
     "PromptForCreds-EnterCredentialsForUrl": "Please enter your credentials for {0}: ",
     "PromptForCreds-InvalidCredentialsForUrl": "Invalid credentials for {0}. Please try again: ",
     "PromptForCreds-GpgPassphrase": "Enter your GPG passphrase",
@@ -1988,55 +1921,57 @@
     "PromptForCreds-IncorrectSSHPassphrase": "Incorrect passphrase for SSH key. Try again:",
     "PromptForCreds-IncorrectServiceSSHPassphrase": "Incorrect passphrase for {0} SSH key. Try again:",
     "PromptForCreds-PasswordPlaceholder": "Password",
+    "PromptForCreds-PersonalAccessTokenPlaceholder": "Personal Access Token",
+    "PromptForCreds-AppPasswordPlaceholder": "App Password",
     "PromptForCreds-LocksIcon": "Caps Lock Is Enabled",
     "PromptForCreds-PleaseLogIn": "Please log in to {0} to continue:",
     "PromptForCreds-InvalidLogin": "Invalid login for {0}. Try again:",
+    "PromptForCreds-ConnectIntegrationLink": "Connect the {0} integration",
+    "PromptForCreds-PleaseConnectIntegrationOrLogIn": "{0} or authenticate to {1} to continue:",
+    "PromptForCreds-PleaseConnectIntegrationInvalidLogIn": "Authentication failed. {0} or try again:",
     "PromptForCreds-UsernamePlaceholder": "Username",
     "PromptForCreds-EnterUsername": "What username should we use to connect you to {0}?",
     "PromptForCreds-EnterUsernameInvalid": "Username not accepted on {0}. Please try again:",
     "PromptForCreds-RememberMe": "Remember me",
     "PromptForCreds-TabDiedError": "The credentials prompt was forced to close.",
-
     "PromptForMerge-SaveAncestor": "You did not pick A or B. Would you like to save your ancestor?",
     "PromptForMerge-SaveMergeWithUnresolvedConflicts": "You have unresolved conflicts. How would you like to proceed?",
-
     "PromptForRebase-ConfirmDropXCommits": "Are you sure you want to drop {0} commits?",
     "PromptForRebase-ConfirmDropCommit": "Are you sure you want to drop 1 commit?",
-
     "PromptForPush-LocalIsBehindRemote": "'{0}' is behind '{1}'. Update your branch by doing a Pull.",
     "PromptForPush-PushingReferenceRequiresForce": "Pushing this reference requires force, which is destructive and cannot be undone. Do you want to complete the push?",
+    "PromptForPush-Warning": "WARNING!",
+    "PromptForPush-RemoteChanged": "{0} '{1}' has changed on the remote since the last fetch.",
     "PromptForPush-ConfirmForcePush": "Force push is a destructive action and cannot be undone. Are you sure?",
     "PromptForPush-OAuthInvalid": "Your OAuth token for '{0}' is invalid. Would you like to refresh your OAuth credentials or try again without OAuth?",
-
     "PromptForTagAnnotation-Message": "Message:",
     "PromptForTagAnnotation-Placeholder": "Annotation message",
-
     "PromptForDeleteRepo-Delete": "Delete repository",
     "PromptForDeleteRepo-Message": "Permanently delete repository {0}?",
-
     "PromptIgnore-Message": "Ignore '{0}'?",
     "PromptIgnoreMultiple-Message": "Ignore {0} files?",
     "PromptIgnore-Ignore": "Ignore",
     "PromptIgnore-IgnoreAndUntrack": "Ignore and Stop Tracking",
-
     "PromptNewBranchAtRemote-BranchNamePlaceholder": "branch name",
     "PromptNewBranchAtRemote-CreateBranch": "Create Branch Here",
     "PromptNewBranchAtRemote-Message": "A local '{0}' already exists.",
     "PromptNewBranchAtRemote-ResetLocal": "Reset Local to Here",
-
     "PromptForNewBranchName-InvalidBranchName": "The given branch name is not valid",
     "PromptForNewBranchName-Message": "Rename '{0}' to:",
     "PromptForNewBranchName-Placeholder": "new branch name",
-
+    "PromptForAddKeyHost": "The authenticity of host '{0}' can't be established. Answering yes will permanently add '{0}' to the list of known hosts. Are you sure you want to continue?",
+    "HostIdentificationChangedModal-warning": "WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!",
+    "HostIdentificationChangedModal-fix": "Update known_hosts with new key",
+    "HostIdentificationChangedModal-ExposureNote-line1": "NOTE: {0} rotated their RSA host key due to accidental exposure.",
+    "HostIdentificationChangedModal-ExposureNote-line2": "See {0} for more info.",
+    "HostIdentificationChangedModal-remote": "Remote: {0}",
     "CommitMessage-RemoteBranchCreated": "Branch: created {0}",
-
     "GitHubActionForm-AddWorkflow": "Create a Workflow",
     "GitHubActionForm-AddGitHubWorkflowButtonLabel": "Create Workflow",
     "GitHubActionForm-SearchTemplates": "search templates",
     "GitHubActionForm-SelectTemplate": "Select a template",
     "GitHubActionForm-WorkflowFileName": "File name",
     "GitHubActionForm-WorkflowName": "Workflow name",
-
     "IssueTrackerForm-AddCardButtonLabel": "Create Card",
     "IssueTrackerForm-AddIssueButtonLabel": "Create Issue",
     "IssueTrackerForm-AddIssueButtonLabelDisabled": "You do not have permission to create issues for this project.",
@@ -2048,7 +1983,6 @@
     "IssueTracker-RequiredFieldsNotice": "Required Field",
     "IssueTracker-MissingFieldToolTip": "Missing a required field",
     "TrelloForm-DelayWarning": "New cards may take up to a minute to display due to Trello API delays.",
-
     "RemoteForm-AddRemote": "Add Remote",
     "RemoteForm-AddRemoteButtonLabel": "Add Remote",
     "RemoteForm-AddUserRemote": "Add remote: {0}",
@@ -2077,15 +2011,12 @@
     "RemoteForm-TooManyServiceRemotesWarningNForks": "We are retrieving {0} forks associated with this repo. It may be faster to get the URL from {1}",
     "RemoteForm-TooManyServiceRemotesWarningManyForks": "We are retrieving a lot of forks associated with this repo. It may be faster to get the URL from {0}",
     "RemoteForm-Url": "URL",
-
     "RenameTabPrompt-MessageRepo": "Repository alias",
     "RenameTabPrompt-MessageTab": "Tab alias",
     "RenameTabPrompt-SaveAliasBtn": "Save alias",
     "RenameTabPrompt-ClearBtn": "Clear alias",
-
     "SetUpstreamPrompt-InvalidBranchName": "The given branch name is not valid",
     "SetUpstreamPrompt-SelectRemoteBranchMessage": "What remote/branch should \"{0}\" push to and pull from?",
-
     "ConfirmationMessage-ClonePullRequestHead": "Do you want to add \"{0}\" as a remote and checkout \"{1}\"?",
     "ConfirmationMessage-ClonePullRequestHeadForFileChanges": "Do you want to add \"{0}\" as a remote to view file changes?",
     "ConfirmationMessage-DeleteAll": "Delete all",
@@ -2114,7 +2045,6 @@
     "ConfirmationMessage-ResetAll": "This will discard all staged and unstaged changes, including new untracked files. Are you sure you want to discard all changes?",
     "ConfirmationMessage-ResetFile": "This will discard all staged and unstaged changes to \"{0}\". Are you sure you want to discard all changes to the file?",
     "ConfirmationMessage-ResetFiles": "This will discard all staged and unstaged changes to the selected files. Are you sure you want to discard all selected changes?",
-
     "DeepLink-AddRemote": "Add Remote",
     "DeepLink-BranchLocationError": "Failed to find branch \"{0}\".",
     "DeepLink-Cancelled": "Cancelled opening link",
@@ -2144,13 +2074,11 @@
     "DeepLink-Commit": "commit",
     "DeepLink-Remote": "remote",
     "DeepLink-Tag": "tag",
-
     "UndoRedo-InformationMissing": "Undo information is missing - it has likely been garbage collected.",
     "UndoRedo-RedoFailed": "Redo Failed",
     "UndoRedo-RedoSuccessful": "Redo Successful",
     "UndoRedo-UndoFailed": "Undo Failed",
     "UndoRedo-UndoSuccessful": "Undo Successful",
-
     "View-ActivityLog": "Activity Logs",
     "View-ActivityLog-HookTitle": "Hook: {0}",
     "View-AutoUpdate": "Choose Installer",
@@ -2167,7 +2095,6 @@
     "View-ZoomDown": "Decrease Zoom",
     "View-ZoomReset": "Reset Zoom",
     "View-ZoomUp": "Increase Zoom",
-
     "NewTabView-OpenRepo": "Open a repo",
     "NewTabView-StartLocalRepo": "Start a local repo",
     "NewTabView-CloneRepo": "Clone a repo",
@@ -2206,7 +2133,6 @@
     "NewTabView-Additional-Resources-Interesting-Links": "Links",
     "NewTabView-DocButton": "Documentation",
     "NewTabView-ReleaseNotesButton": "Release Notes",
-
     "KeyBindingFilter-Placeholder": "Filter shortcuts ({0} + F)",
     "KeyBindingHeader-RepoActions": "Repo Actions",
     "KeyBindingHeader-Navigation": "Navigation",
@@ -2240,7 +2166,6 @@
     "KeyBinding-Unstage": "Unstage Current File",
     "KeyBinding-UnstageAll": "Unstage All Files",
     "KeyBinding-OpenTabsList": "Open tabs list",
-
     "Notification-AlreadyUpToDate": "Already Up-to-Date",
     "Notification-AppUpdateAvailable": "Version {0} of GitKraken is now available.",
     "Notification-AnnotatedSuccessfully": "Annotated Successfully",
@@ -2259,6 +2184,10 @@
     "Notification-DeletedNBranches": "Deleted {0} branches",
     "Notification-GitExecutableEnabled-Markdown": "We've enabled the **Git Executable** feature for your account. This will use the Git executable directly for certain features like fetching and committing for better compatibility and performance. GitKraken Client will utilize this method for additional Git actions in future releases.\n\nFor more information, or to disable this setting if you run into any new issues, you can access this setting in *Preferences > Experimental*.",
     "Notification-GitExecutableEnabled-Desktop": "We've enabled the Git Executable feature for your account. This will use the Git executable directly for certain features like fetching and committing for better compatibility and performance...",
+    "Notification-GitExecutableWindowsHooksFirstRun-Markdown": "We see you're using Git Hooks. Some advanced hooks may rely on features not included in GitKraken's bundled minimal Git install. You can select a full Git install for GitKraken to use from Preferences > Experimental > Git Executable after downloading and installing Git from https://git-scm.com/download/win.",
+    "Notification-GitExecutableWindowsHooksFirstRun-Desktop": "We see you're using Git Hooks. Some advanced hooks may rely on features not included in GitKraken's bundled minimal Git install...",
+    "Notification-GitExecutableWindowsHooksFirstFailure-Markdown": "We see one of your hooks has failed. Some advanced hooks may rely on features not included in GitKraken's bundled minimal Git install. You can select a full Git install for GitKraken to use from Preferences > Experimental > Git Executable after downloading and installing Git from https://git-scm.com/download/win.",
+    "Notification-GitExecutableWindowsHooksFirstFailure-Desktop": "We see one of your hooks has failed. Some advanced hooks may rely on features not included in GitKraken's bundled minimal Git install...",
     "Notification-GpgCopyPublicKeySuccessfully": "Public GPG key copied successfully",
     "Notification-GpgKeyGenSuccess": "GPG Key Created Successfully",
     "Notification-Merged": "Merged",
@@ -2281,9 +2210,7 @@
     "NotificationMessage-RevertWasNoop": "However, the current branch already has all changes from the reverted commit.",
     "NotificationMessage-CherrypickWasNoop": "However, the current branch already has all changes from the cherry picked commit.",
     "NotificationMessage-SSHKeyBeingUsed": "GitKraken will use this key to talk to {0}. The public key has been copied to your clipboard; please make sure it is registered on your {0} account.",
-
     "NotificationDesktop-XNewMessages": "You have {0} new notifications",
-
     "NotificationPreferences": "Notifications",
     "NotificationPreferences-Desktop": "Enable Desktop Notifications",
     "NotificationPreferences-Desktop-Help": "Allow GitKraken to send desktop notifications.",
@@ -2292,7 +2219,6 @@
     "NotificationPreferences-Marketing": "Receive Marketing Notifications",
     "NotificationPreferences-Marketing-Help": "Receive marketing related notifications.",
     "NotificationPreferences-Marketing-Tooltip": "These notifications can be turned off with a paid subscription.",
-
     "NotificationMenu-CantSync": "Unable to sync notifications. Please check your internet connection or reload GitKraken.",
     "NotificationMenu-Notifications": "Notifications",
     "NotificationMenu-FiltersAll": "All",
@@ -2305,7 +2231,6 @@
     "NotificationMenu-Read-Empty": "You have no read notifications",
     "NotificationMenu-Unread-Empty": "You have no unread notifications",
     "NotificationMenu-WaitingForCloud": "It is taking longer than usual to receive notifications. Please try again later.",
-
     "NotificationUI-FeatureRequiresUpdate": "This feature requires an updated client.",
     "NotificationUI-DateAtTime": "{0} @ {1}",
     "NotificationUI-MarkAsRead": "Mark as read",
@@ -2316,7 +2241,6 @@
     "NotificationUI-TimeYesterday": "Yesterday",
     "NotificationUI-UpdateNotAvailable": "This update is currently rolling out and will be available soon.",
     "NotificationUI-UpdateNow": "Update now",
-
     "OrganizationMember-Admin": "Admin",
     "OrganizationMember-AlreadyMember": "{0} is already a member of this organization",
     "OrganizationMember-Billing": "Billing Contact",
@@ -2340,41 +2264,32 @@
     "OrganizationMember-SuggestedMembers": "Suggested Members",
     "OrganizationMember-SuggestedMembersSubTitle": "Contributors to the {0} repository",
     "OrganizationMember-User": "User",
-
     "Organization-Members": "Members",
     "Organization-TeamMembers": "Team Members",
     "Organization-Teams": "Teams",
     "Organization-Settings": "Settings",
     "Organization-SettingsSubtitle": "These settings are only applied for this organization",
     "Organization-SwitchOrganization": "Switch organization",
-
     "Organization-DeleteTeam": "Delete Team",
     "Organization-DeleteTeamWarningFinal": "This action cannot be undone",
     "Organization-DeleteTeamNamePlaceholder": "Name of the team",
     "Organization-DeleteTeamRequestAction": "Please type the name of your team {0} to confirm",
     "Organization-DeleteTeamWarningExplained": "THIS ACTION CANNOT BE UNDONE. This will permanently delete team {0}. Members may lose access to any Workspaces that are shared with this team.",
-
     "Organization-AddTeamTooltip": "Create new team.",
     "Organization-CreateTeamModalButton": "Create team",
     "Organization-CreateTeamModalTitle": "Team Name",
     "Organization-CreateTeamModalPlaceholder": "Enter a team name",
     "Organization-UpgradeToAddTeamsTooltip": "Pro and trial accounts are limited to {0} team. Upgrade your subscription to add more teams",
-
     "Organization-TeamNameError": "Team Name may only contain alphanumeric characters, single hyphens or single spaces, and cannot begin or end with a hyphen",
-
     "Organization-PermissionErrorTitle": "An Error Occurred",
     "Organization-PermissionErrorMessage": "You may have lost permission to perform this action.",
-
     "Organization-ServerErrorTitle": "An Unknown Error Occurred",
     "Organization-ServerErrorMessage": "Please try again later.",
-
     "Team-AreYouSureDelete": "Are you sure you want to DELETE this team?",
     "Team-DeleteTeam": "Delete Team",
-
     "TeamSettings-Label": "Team",
     "TeamSettings-DefaultTeamLabel": "Use this as the default for all repositories",
     "TeamSettings-SelectTeam": "Select a team for this repo",
-
     "TeamMember-Add": "Add a member",
     "TeamMember-AddMember": "Add member",
     "TeamMember-AddMembers": "Add members",
@@ -2383,17 +2298,17 @@
     "TeamMember-NoMembersFound": "No members found",
     "TeamMember-SelectToAdd": "Select a member to add",
     "TeamMember-OptedOut": "{0} has opted-out of sharing their WIP",
-
     "Trial-StartFreeGitKrakenTrial": "Start a Free GitKraken Trial",
     "Trial-TrialStartedModalContent1": "For the next {0} days, you will have access to all paid GitKraken features! After your trial expires, it will default to the free plan.",
     "Trial-TrialStartedModalContent2": "Add teammates to extend your trial!",
     "Trial-TrialStartedModalContent3": "Extend your trial by {0} days when you create an organization and add your teammates. Everyone will have access to all of GitKraken's paid features until your trial ends.",
+    "Trial-UnregisteredTrialEndedModalContent": "Your free access to private repositories has ended. Create an account to start a {0}-day trial and continue to access your private repositories. You’ll also get to enjoy additional features during your trial, such as:",
     "Trial-Feature1": "Work with privately-hosted and self-hosted remote repositories",
     "Trial-Feature2": "A powerful merge conflict editor",
     "Trial-Feature3": "Multiple profiles for work & personal use",
-    "Trial-Feature4": "Integrations for self-hosted repos on GitHub Enterprise, GitLab Self-Managed, Bitbucket Server, and Azure DevOps",
+    "Trial-Feature4": "Integrations for self-hosted repos on GitHub Enterprise Server, GitLab Self-Managed, Bitbucket Server, and Azure DevOps",
     "Trial-Feature5": "Create and edit issues on Jira, GitHub, GitLab, GitKraken Boards, and Trello",
-    "Trial-Feature6": "Share your Cloud Workspaces with your team",
+    "Trial-Feature6": "Share your {0} with your team",
     "Trial-Feature5WithoutGlo": "Create and edit issues on Jira, GitHub, GitLab, and Trello",
     "Trial-SeeAllFeatures": "See all features on gitkraken.com",
     "Trial-TrialStartedCreateOrganization": "Add teammates to extend my trial",
@@ -2406,8 +2321,7 @@
     "Trial-OrgTrialEndedDescriptionUser": "Your organization trial has expired. Contact the organization owner to purchase a subscription and continue using these paid GitKraken features.",
     "Trial-ProFeatures": "Pro features",
     "Trial-PremiumFeatures": "paid features",
-    "Trial-StartXDayTrial": "Start a Free {0}-Day Trial",
-
+    "Trial-StartXDayTrial": "Sign Up for a {0}-Day Trial",
     "Error": "Error",
     "Error-AddExternalSSHKeyToServiceFailed": "Add SSH Key failed",
     "Error-AmendFailed": "Amend failed",
@@ -2433,6 +2347,7 @@
     "Error-DiscardSelectionFailed": "Discarding selection failed",
     "Error-DisconnectingServiceFailed": "Service disconnection failed",
     "Error-RemoveSSHKeyFromServiceFailed": "SSH key disconnection failed",
+    "Error-SharedSettingsSaveFailure": "Failed to save shared settings",
     "Error-FetchFailedWithName": "Fetch failed for '{0}'",
     "Error-FetchAllPullRequestsFailed": "Fetching pull requests failed",
     "Error-GenerateSshKeyAndAddToServiceFailed": "SSH key creation failed",
@@ -2459,9 +2374,12 @@
     "Error-GpgNoPassphrase": "No GPG passphrase given",
     "Error-GpgNoSmartCard": "No GPG smartcard found",
     "Error-GpgNotFound": "GPG program not found",
+    "Error-GpgNotSet": "GPG program not set",
     "Error-GpgSigningAborted": "No passphrase given",
     "Error-GpgUnparseableSignature": "PGP Signature could not be parsed",
     "Error-GpgUnusableSecretKey": "The active GPG key was unusable and may have expired",
+    "Error-HomePathNotFound": "Home path not found. Cannot add host keys.",
+    "Error-HostIdentificationChanged": "Warning: remote host identification has changed!",
     "Error-InotifyLimitReached": "Inotify Limit Error",
     "Error-InvalidPAT": "Your Personal Access Token for {0} was rejected. The token may have been revoked, or it may not have enough scopes.",
     "Error-InvalidSSLCert": "Invalid SSL Certificate",
@@ -2472,6 +2390,8 @@
     "Error-MaxRetryReached": "Maximum retry limit reached",
     "Error-MergeAbortFailed": "Abort Merge Failed",
     "Error-MergeFailed": "Merge Failed",
+    "Error-NoKeysFoundForHost": "No keys found for host {0}",
+    "Error-HostNotFoundKnownHosts": "Host {0} not found in known_hosts",
     "Error-NeedUpgradedPermissions": "More {0} permissions required",
     "Error-OpenDiffToolFailed": "Failed to open diff tool",
     "Error-OpenRepoInExternalEditorNoRepo": "You must have a repository open to open it an external editor",
@@ -2541,6 +2461,7 @@
     "ErrorMessage-DiscardSelectionFailedWithReason": "Could not discard selection for {0} for the following reason: {1}",
     "ErrorMessage-InotifyLimitReached": "File watching is disabled for this repository. Please increase your inotify limit and reopen this repository.",
     "ErrorMessage-FileWatcherFailedToStart": "File watching failed to start for this repository.",
+    "ErrorMessage-IncompatibleIndex": "Corrupt index or incompatible .gitconfig settings detected. Git 2.40.0+ includes some configuration options that GitKraken doesn't support (index.skipHash and feature.manyFiles). Disable these options and either re-clone or run (NOTE: this will unstage your staged files) \"git reset --mixed\"",
     "ErrorMessage-InvalidSSLCert": "GitKraken could not complete the request due to potentially invalid SSL certification for {0}.",
     "ErrorMessage-InvalidSSLCopyToClipboard": "Copy error message to clipboard",
     "ErrorMessage-InvalidCommonNameSSLCert": "GitKraken received an CERT_COMMON_NAME_INVALID error for {0}. Your SSL certificate may be missing the proper Server Alternate Name (SAN).",
@@ -2559,7 +2480,7 @@
     "ErrorMessage-MergeToolNotFound": "The configured merge tool was not found",
     "ErrorMessage-FailedToLaunchDiffTool": "Could not find default diff tool \"{0}\" specified in git config.",
     "ErrorMessage-FailedToLaunchMergeTool": "Could not find default merge tool \"{0}\" specified in git config.",
-    "ErrorMessage-GitHubEnterpriseTooOld": "Your instance of GitHub Enterprise is no longer supported by GitKraken. Please ask your network administrator to update your GitHub Enterprise server.",
+    "ErrorMessage-GitHubEnterpriseTooOld": "Your instance of GitHub Enterprise Server is no longer supported by GitKraken. Please ask your network administrator to update your GitHub Enterprise Server.",
     "ErrorMessage-GitLabEnterpriseTooOldIssues": "Your instance of GitLab Self-Managed is no longer supported by GitKraken for issue tracking. Please ask your network administrator to update your GitLab self-hosted server.",
     "ErrorMessage-GitLabBadGateway": "Bad GitLab Issues Integration Gateway",
     "ErrorMessage-GitLabUnknown": "Unknown GitLab Issues Integration Error",
@@ -2610,21 +2531,18 @@
     "ErrorMessage-NoCommonAncestor": "No common ancestor was found between the source ref and the target ref.",
     "ErrorMessage-FailedToGetCredentials": "Error loading credentials",
     "ErrorMessage-PleaseCheckRemoteUrl": "Please make sure that the remote url matches the integration url",
-
+    "ErrorMessage-FailedToAcquireLock": "Failed to acquire shared settings lock.",
+    "ErrorMessage-LockfileRemoved": "Shared settings lockfile removed while in use.",
     "ErrorMessage-UnknownFailure": "Unknown failure.",
-
     "Plugin-GenericTabLabel": "Plugin",
     "Plugin-TabViewLoadFailed": "Plugin failed to open",
-
     "FileSavePrompt-Detail": "Any unsaved changes will be discarded.",
     "FileSavePrompt-Message": "Do you want to save the changes you made to {0}?",
-
     "FirstRepoModal-Title": "Welcome to GitKraken Client!",
     "FirstRepoModal-Body": "Open your first repository to get started.",
     "FirstRepoModal-Tip": "Tip: after opening a repo, use the Command Palette ({0} + P) to quickly access actions",
     "FirstRepoModal-Clone": "Clone a remote repository",
     "FirstRepoModal-Browse": "Open an existing repository on your machine",
-
     "GetStartedForm-title": "How do you want to get started?",
     "GetStartedForm-desc": "You can open a local repo, clone one from the internet, create a new one, or group repos together into a workspace.",
     "GetStartedForm-FoundSomeWorkspaces-title": "Start with an existing workspace",
@@ -2639,7 +2557,6 @@
     "GetStartedForm-repoOptionDesc-createWorkspace": "Create a workspace with multiple repos",
     "GetStartedForm-watchVideo": "Watch a video",
     "GetStartedForm-viewDocs": "Documentation",
-
     "CheckoutError-CloseDetailPanel": "To checkout, please save your changes and try again.",
     "MergeError-CloseDetailPanel": "To merge, please save your changes and try again.",
     "RebaseError-CloseDetailPanel": "To rebase, please save your changes and try again.",
@@ -2653,18 +2570,14 @@
     "TryUndoError-CloseDetailPanel": "To try to redo, please save your changes and try again.",
     "TryRedoError-CloseDetailPanel": "To try to undo, please save your changes and try again.",
     "Error-CloseDetailPanel": "Please save your changes and try again.",
-
     "Editor-OverwriteContentsOnDiskQuestion": "The file has been modified outside of GitKraken. Do you want to overwrite the file?",
     "Editor-OverwriteContentsOnDiskOrDiscardQuestion": "The file has been modified outside of GitKraken. Do you want to discard your changes, or overwrite the file?",
     "Editor-OverwriteContentsOnDisk": "Save and overwrite",
     "Editor-DiscardChanges": "Discard these changes",
-
     "SaveAndStageEditorChanges-Message": "Do you want to save your changes before staging, or only stage what's already saved to the disk?",
     "SaveAndStageEditorChanges-SaveAndStage": "Save and stage",
     "SaveAndStageEditorChanges-StageSavedChangesOnly": "Stage saved changes only",
-
     "CreateFork-ForkSuccessfullyCreated": "Fork successfully created on {0}",
-
     "TeamVisibility-LoadingTeamsPlaceholder": "Fetching teams...",
     "TeamVisibility-NoMatch": "No Match",
     "TeamVisibility-NoTeamsMessage": "Teams in GitKraken allow you to collaborate more effectively with team members and identify merge conflicts before they happen. {0}.",
@@ -2680,7 +2593,6 @@
     "TeamVisibility-UnregisteredUnavailableMessage": "Teams in GitKraken allow you to collaborate more effectively with team members and identify merge conflicts before they happen. Start a free trial to get started.",
     "TeamVisibility-YourFileOnePotentialConflict": "Potential conflicts: {0} also has changes on this file",
     "TeamVisibility-YourFileMultiplePotentialConflicts": "Potential conflicts: multiple members also have changes on this file",
-
     "IntegrationView-AddCommentSubmitLabel": "Add Comment",
     "IntegrationView-AddCommentPlaceholder": "Add a comment",
     "IntegrationView-AddDescriptionPlaceholder": "Add a description",
@@ -2705,18 +2617,14 @@
     "IntegrationView-BranchLabelTooltipWithRemote": "Click to view. Double-click to checkout.",
     "IntegrationView-BranchLabelTooltipWithoutRemote": "Double-click to checkout.",
     "IntegrationView-CouldNotFindRepo": "Could not find pull request repository, please clone or locate it",
-
     "IntegrationViewCommentMenu-QuoteReply": "Quote reply",
-
     "IntegrationViewError-AssigneesEditFailed": "Failed to edit assignees",
     "IntegrationViewError-DescriptionEditFailed": "Failed to update description",
     "IntegrationViewError-LabelsEditFailed": "Failed to edit labels",
     "IntegrationViewError-MilestonesEditFailed": "Failed to edit milestones",
     "IntegrationViewError-ReviewersEditFailed": "Failed to edit reviewers",
     "IntegrationViewError-TitleEditFailed": "Failed to update title",
-
     "IntegrationView-GitHubTriagePermissionMessage": "GitHub's API doesn't allow triage users to edit.",
-
     "PullRequestView-AddCommitSummary": "Add a commit summary",
     "PullRequestView-AddCommitDescription": "Add a commit description",
     "PullRequestView-And": "and",
@@ -2795,20 +2703,17 @@
     "PullRequestView-XCommented": "{0} left comments",
     "PullRequestView-XPendingReviewComments": "{0} pending comments",
     "PullRequestView-XRequestedChanges": "{0} requested changes",
-
     "PullRequestViewFilesError-CouldNotFindAncestorCommit": "Failed to find shared ancestor commit for this pull request.",
     "PullRequestViewFilesError-CouldNotFindBaseCommit": "Failed to find base commit for this pull request.",
     "PullRequestViewFilesError-CouldNotFindHeadCommit": "Failed to find head commit for this pull request. Ensure this remote is not hidden, or try increasing the number of commits visible in the graph in Preferences > General.",
     "PullRequestViewFilesError-MissingShaToViewFileChanges": "Failed to find shas for this pull request.",
     "PullRequestViewFilesError-NoAncestorCommit": "Failed to find a shared commit between the head and base of this pull request.",
-
     "PullRequestViewMergeabilitySection-Blocked": "Merging is blocked",
     "PullRequestViewMergeabilitySection-Conflicts": "This branch has conflicts that must be resolved",
     "PullRequestViewMergeabilitySection-NoConflicts": "This branch has no conflicts with the base branch",
     "PullRequestViewMergeabilitySection-NoPermission": "Only those with write access can merge pull requests.",
     "PullRequestViewMergeabilitySection-Draft": "This pull request is still a work in progress",
     "PullRequestViewMergeabilitySection-DraftSubText": "Draft pull requests cannot be merged.",
-
     "PullRequestViewMergeForm-ChooseEmail": "Choose which email to associate with this merge",
     "PullRequestViewMergeForm-Merge": "Merge",
     "PullRequestViewMergeForm-MergeDetails": "All commits from this branch will be added to the base branch via a merge commit.",
@@ -2841,10 +2746,8 @@
     "PullRequestViewError-ViewingFileChanges": "Failed to view file changes.",
     "PullRequestViewError-MergingPullRequestUnverifiedEmail": "The email {0} is not verified on {1}. Use a {1} verified email in your GitKraken profile or add this email to your {1} account.",
     "PullRequestViewError-TryUsingDefaultEmail": "You may be using a private email. Try using your default email.",
-
     "PullRequestViewDisabled-AuthorCantApprove": "Pull request authors can't approve their own pull request.",
     "PullRequestViewDisabled-AuthorCantRequestChanges": "Pull request authors can't request changes on their own pull request.",
-
     "Issues": "Issues",
     "IssueTracker": "Issue Tracker",
     "IssueTracker-Card": "Card",
@@ -2859,7 +2762,7 @@
     "IssueTracker-DefaultIssueTrackerTypeLabel": "Use this as the default for all repositories",
     "IssueTracker-DoNotAskAgain": "Don't ask again",
     "IssueTracker-GitHub": "GitHub",
-    "IssueTracker-GitHubEnterprise": "GitHub Enterprise",
+    "IssueTracker-GitHubEnterprise": "GitHub Enterprise Server",
     "IssueTracker-GitHubNoValidRemotes": "To use GitHub issues, add a remote repo with issues enabled.",
     "IssueTracker-GitLab": "GitLab",
     "IssueTracker-GitLabSelfManaged": "GitLab Self-Managed",
@@ -2886,10 +2789,8 @@
     "IssueTracker-SelectProjectToCreateFilter": "Select a project to create a filter",
     "IssueTracker-SelectRepoToCreateFilter": "Select a repository to create a filter",
     "IssueTracker-YesLabel": "Yes",
-
     "IssueTrackerSearch-FilteredCards": "Search filtered cards",
     "IssueTrackerSearch-FilteredIssues": "Search filtered issues",
-
     "IssueTrackerCreateForm-BaseBranch": "Base Branch",
     "IssueTrackerCreateForm-ColumnLabel": "Column",
     "IssueTrackerCreateForm-ListLabel": "List",
@@ -2926,7 +2827,6 @@
     "IssueTrackerCreateForm-SuccessfullyCreatedIssue": "Successfully created issue",
     "IssueTrackerCreateForm-SuccessfullyCreatedIssueOnJira": "Successfully created issue on Jira",
     "IssueTrackerCreateForm-OpenJiraIssueCreateLink": "Create this issue in Jira",
-
     "IssueFilterError-GitHubField": "Filter field name is not valid: {0}",
     "IssueFilterError-GitHubAssignee": "Assignee must be a username, \"none\", or \"*\"",
     "IssueFilterError-GitHubCreator": "Creator must be a username",
@@ -2937,7 +2837,6 @@
     "IssueFilterError-GitHubSort": "Sorting must be \"created\", \"updated\", or \"comments\"",
     "IssueFilterError-GitHubSortDirection": "Sorting direction must be \"asc\" or \"desc\"",
     "IssueFilterError-GitHubState": "State must be \"open\", \"closed\", or \"all\"",
-
     "IssueTrackerFilterForm-CreateGitLabFilter": "Create GitLab Filter",
     "IssueTrackerFilterForm-CreateGKBoardsFilter": "Create GitKraken Boards Filter",
     "IssueTrackerFilterForm-CreateIssueTrackerFilter": "Create Issue Tracker Filter",
@@ -2982,7 +2881,6 @@
     "IssueTrackerFilterForm-GitHubSyntaxReferenceTitle": "GitHub Filter Syntax",
     "IssueTrackerFilterForm-NamePlaceholder": "Enter a name for this filter",
     "IssueTrackerFilterForm-SubmitLabel": "Create Filter",
-
     "IssueTrackerFilterForm-AssigneeAnyLabel": "Assignee (any):",
     "IssueTrackerFilterForm-AssigneeLabel": "Assignee:",
     "IssueTrackerFilterForm-ChecklistLabel": "Checklist:",
@@ -3013,7 +2911,6 @@
     "IssueTrackerFilterForm-SortingLabel": "Sorting:",
     "IssueTrackerFilterForm-DirectionLabel": "Sorting Direction:",
     "IssueTrackerFilterForm-StateLabel": "State:",
-
     "IssueTrackerFilterForm-All": "all",
     "IssueTrackerFilterForm-Ascending": "asc",
     "IssueTrackerFilterForm-Asterisk": "*",
@@ -3056,12 +2953,9 @@
     "IssueTrackerFilterForm-StateName": "state_name",
     "IssueTrackerFilterForm-Updated": "updated",
     "IssueTrackerFilterForm-UserName": "user_name",
-
     "IssueTrackerFilterForm-FilterError": "Filter Error",
-
     "TrelloFilterForm-QueryWarning": "Warning",
     "TrelloFilterForm-BoardWarningMessage": "Results are already filtered by the selected board, a \"board:\" argument is unnecessary.",
-
     "IssueTrackerDefaultFilter-AllCards": "All Cards",
     "IssueTrackerDefaultFilter-AllIssues": "All Issues",
     "IssueTrackerDefaultFilter-AllOpenIssues": "All Open Issues",
@@ -3070,7 +2964,6 @@
     "IssueTrackerDefaultFilter-MyOpenIssues": "My Open Issues",
     "IssueTrackerDefaultFilter-UnassignedCards": "Unassigned Cards",
     "IssueTrackerDefaultFilter-UnassignedIssues": "Unassigned Issues",
-
     "IssueTrackerError-BadRequest": "Bad request syntax",
     "IssueTrackerError-CapchaBlockingLogin": "A captcha is blocking authentication. Please log in to your account to continue.",
     "IssueTrackerError-ColumnEditFailed": "Failed to update column",
@@ -3095,7 +2988,7 @@
     "IssueTrackerError-GitLabMissingBoardProject": "Missing board {0} for project {1}. Make sure the project and board exist and you have permission to access them.",
     "IssueTrackerError-NameEditFailed": "Failed to update name",
     "IssueTrackerError-NotUseGitHub": "Repo must be hosted on GitHub.",
-    "IssueTrackerError-NotUseGitHubEnterprise": "Repo must be hosted on GitHub Enterprise.",
+    "IssueTrackerError-NotUseGitHubEnterprise": "Repo must be hosted on GitHub Enterprise Server.",
     "IssueTrackerError-SaveCredentialsFailed": "Failed to save credentials",
     "IssueTrackerError-SetActiveIssueTrackerFailed": "Failed to set issue tracker",
     "IssueTrackerError-StatusEditFailed": "Failed to update status",
@@ -3103,10 +2996,8 @@
     "IssueTrackerError-TaskItemEditFailed": "Failed to update task item value",
     "IssueTrackerError-TrelloTokenExpired": "Trello token expired",
     "IssueTrackerError-TrelloRateLimit": "Exceeded Trello API rate limit",
-
     "IssueTrackerPreferences-ChangePreferencesHint": "To set an issue tracker for this repository, go to Preferences > Issues",
     "IssueTrackerPreferences-OpenPreferences": "Open Preferences",
-
     "IssueTracker-Member": "Member",
     "IssueTracker-Members": "Members",
     "IssueTracker-GitHubSyncedBoardBlocksEditMessage": "This is a GitHub synced board. Please navigate to GitKraken Boards to edit this card.",
@@ -3121,21 +3012,20 @@
     "IssueTracker-ViewOnlyPermissionCommentMessageIssue": "You do not have permission to comment on this issue.",
     "IssueTracker-GoToBoard": "Open in GitKraken Boards",
     "IssueTracker-UnsupportedJiraFieldMessage": "Issues of this type cannot be created because Jira requires the following fields that are not currently supported by GitKraken:",
-
     "Cli-CloseGraphView": "Close graph view",
-    "Cli-GraphViewNotAvailableOnPrivateRepos": "The graph view is not available for private or self-hosted repositories",
-    "Cli-WelcomeMessageLine1": "{0}{1}Welcome to the GitKraken CLI!{2}",
-    "Cli-WelcomeMessageLine2": "{0}cd{1} into a directory being tracked by Git and type {2}gk graph{3} to see what GitKraken can do.{4}",
-    "Cli-WelcomeMessageFromRepoTabLine2": "Type {0}\"gk\"{1} to see commands that allow you to work with GitKraken in the terminal.{2}",
+    "Cli-WelcomeMessageLine1": "{0}{1}Welcome to the GitKraken Terminal!{2}",
+    "Cli-WelcomeMessageLine2": "{0}The gk command has been renamed to gkc{1}",
+    "Cli-WelcomeMessageLine3": "{0}cd{1} into a directory being tracked by Git and type {2}gkc graph{3} to see what GitKraken can do.{4}",
+    "Cli-WelcomeMessageFromRepoTabLine3": "Type {0}\"gkc\"{1} to see commands that allow you to work with GitKraken in the terminal.{2}",
     "Cli-GitNotInstalledWarning": "{0}{1}Some autocomplete functions may be limited since Git is not installed on this machine.{2}",
     "Cli-NoRepoToShowError": "No repo to show",
     "Cli-EmptyRepo": "Repository is empty",
     "Cli-PtyStartError": "Failed to start shell process",
     "Cli-UnsupportedOperation": "Unsupported operation",
-    "Cli-GkHistoryNotInRepoError": "You have not opened a repo",
-    "Cli-GkHistoryFilePathNotInRepoError": "The given path does not match any file in this repo",
-    "Cli-GkHistoryFileNotFoundError": "The given path does not match any file",
-    "Cli-GkRepoIsShallow": "GitKraken doesn't support this operation in shallow repositories",
+    "Cli-GkcHistoryNotInRepoError": "You have not opened a repo",
+    "Cli-GkcHistoryFilePathNotInRepoError": "The given path does not match any file in this repo",
+    "Cli-GkcHistoryFileNotFoundError": "The given path does not match any file",
+    "Cli-GkcRepoIsShallow": "GitKraken doesn't support this operation in shallow repositories",
     "Cli-GainedFeatureNotificationTitle": "You've been invited to the GitKraken CLI Preview",
     "Cli-GainedFeatureNotificationBodyP1": "The GitKraken CLI enhances the terminal experience for all things Git by eliminating the need to memorize Git commands and providing powerful visualizations of your repository when you need them.",
     "Cli-GainedFeatureNotificationBodyP2": "You have been invited to this limited preview to test what the GitKraken team has been working on and provide feedback that will help us deliver the best CLI experience to all GitKraken users later this year.",
@@ -3144,24 +3034,23 @@
     "Cli-GainedFeatureNotificationBodyP3-2": "Get autocomplete suggestions while writing Git commands in the terminal",
     "Cli-GainedFeatureNotificationBodyP3-3": "Use the new gk program to interact with the GitKraken GUI from the terminal",
     "Cli-GainedFeatureNotificationButton": "Open the GK CLI",
-    "Cli-GkDiffDescription": "diff [arg1] [arg2] Show changes between commits in graph panel. If no arguments are provided, it will use your WIP and HEAD. If only one argument is provided, it will be compared with HEAD.",
-    "Cli-GkDiffArgDescription": "commit sha hash, branch name or tag name to compare",
-    "Cli-GkDiffNoRepoError": "Repository not found",
-    "Cli-GkDiffSameShaError": "Both arguments refer to the same SHA",
-    "Cli-GkDiffShaNoExistError": "Commit \"{0}\" not found",
-    "Cli-GkRebaseDescription": "Perform a GitKraken rebase",
-    "Cli-GkRebaseTagBranchDescription": "Reapply commits of current branch on top of <ref>",
-    "Cli-GkRebaseBranchDescription": "Will perform 'rebase [branch] onto <ref>'. If no branch is provided, current HEAD will be used instead",
-    "Cli-GkInteractiveRebaseCannotPerformRebaseError": "Cannot perform rebase of {0} onto {1}",
-    "Cli-GkInteractiveRebaseNothingToRebaseError": "Nothing to rebase",
-    "Cli-GkInteractiveRebaseNoRepoError": "You have not opened a repo",
-    "Cli-GkInteractiveRebaseAmbiguousShaError": "Short SHA {0} is ambiguous",
-    "Cli-GkInteractiveRebaseCannotRewriteHistoryError": "Cannot rewrite history. {0} is not an ancestor of HEAD",
-    "Cli-GkInteractiveRebaseRemotesError": "Cannot perform rebase. The second argument is a remote branch, you must create a local branch first",
-    "Cli-GkRebaseBranchInvalid": "Unable to rebase: the branch {0} is either unvalid or does not exist",
-    "Cli-GkRebaseWrongParameters": "Unable to rebase: select two valid branches for rebase (avoid working with commits)",
-    "Cli-GkRebaseWrongBranchToHead": "Unable to rebase: cannot rebase on current HEAD",
-
+    "Cli-GkcDiffDescription": "diff [arg1] [arg2] Show changes between commits in graph panel. If no arguments are provided, it will use your WIP and HEAD. If only one argument is provided, it will be compared with HEAD.",
+    "Cli-GkcDiffArgDescription": "commit sha hash, branch name or tag name to compare",
+    "Cli-GkcDiffNoRepoError": "Repository not found",
+    "Cli-GkcDiffSameShaError": "Both arguments refer to the same SHA",
+    "Cli-GkcDiffShaNoExistError": "Commit \"{0}\" not found",
+    "Cli-GkcRebaseDescription": "Perform a GitKraken rebase",
+    "Cli-GkcRebaseTagBranchDescription": "Reapply commits of current branch on top of <ref>",
+    "Cli-GkcRebaseBranchDescription": "Will perform 'rebase [branch] onto <ref>'. If no branch is provided, current HEAD will be used instead",
+    "Cli-GkcInteractiveRebaseCannotPerformRebaseError": "Cannot perform rebase of {0} onto {1}",
+    "Cli-GkcInteractiveRebaseNothingToRebaseError": "Nothing to rebase",
+    "Cli-GkcInteractiveRebaseNoRepoError": "You have not opened a repo",
+    "Cli-GkcInteractiveRebaseAmbiguousShaError": "Short SHA {0} is ambiguous",
+    "Cli-GkcInteractiveRebaseCannotRewriteHistoryError": "Cannot rewrite history. {0} is not an ancestor of HEAD",
+    "Cli-GkcInteractiveRebaseRemotesError": "Cannot perform rebase. The second argument is a remote branch, you must create a local branch first",
+    "Cli-GkcRebaseBranchInvalid": "Unable to rebase: the branch {0} is either unvalid or does not exist",
+    "Cli-GkcRebaseWrongParameters": "Unable to rebase: select two valid branches for rebase (avoid working with commits)",
+    "Cli-GkcRebaseWrongBranchToHead": "Unable to rebase: cannot rebase on current HEAD",
     "CliRepoInfoToolbar-On": "on",
     "CliRepoInfoToolbar-Is": "is",
     "CliRepoInfoToolbar-RebaseInProgress": "rebase in progress: {0}",
@@ -3173,7 +3062,6 @@
     "CliRepoInfoToolbar-PanelPosition": "Select panel position",
     "CliRepoInfoToolbar-HidePanel": "Hide panel",
     "CliRepoInfoToolbar-OpenPanel": "Show panel",
-
     "CLIPreferences": "Terminal",
     "CLIPreferences-AutocompleteOptions": "Autocomplete options",
     "CLIPreferences-AutocompleteSuggestions": "Enable Autocomplete Suggestions",
@@ -3201,17 +3089,23 @@
     "CLIPreferences-DefaultPath-HelpText": "Terminal tabs will open in this folder",
     "CLIPreferences-BrowseDirectory": "The directory where the terminals will open",
     "CLIPreferences-DefaultTerminal": "Default Terminal",
-
     "AddRepositoriesToWorkspace-Error": "Error Adding Repositories",
     "AddRepositoriesToWorkspace-SuccessSingular": "Successfully added {0} repository to {1}",
     "AddRepositoriesToWorkspace-SuccessPlural": "Successfully added {0} repositories to {1}",
-
     "AddRepositoryToWorkspace-ErrorNoRemoteForLocal": "No remote for local repo at: {0}",
     "AddRepositoryToWorkspace-Error": "Error adding repository to workspaces",
-
     "AddRepositoriesToWorkspaceModal-Adding": "Adding...",
     "AddRepositoriesToWorkspaceModal-Title": "Add Repositories",
-
+    "ShareWorkspaceModal-ShareWorkspace": "Share Workspace",
+    "ShareWorkspaceModal-InviteTeamMembers": "Invite team members to join your Workspace",
+    "ShareWorkspaceModal-ShareThisWorkspaceWithYourTeam": "Share this Workspace with your team",
+    "ShareWorkspaceModal-UnpopulatedOrgDescription1": "Invite your team members to your organization so you can collaborate on your shared Cloud Workspaces.",
+    "ShareWorkspaceModal-UnpopulatedOrgDescription2": "Anyone you invite will have access to your Workspace {0} as soon as they create their GitKraken account.",
+    "ShareWorkspaceModal-AddUsers": "Add Users",
+    "ShareWorkspaceModal-CreateOrgDescription1": "Invite your team members to share your Cloud Workspaces. Inviting additional team members will also give you 21 additional days of trial access!",
+    "ShareWorkspaceModal-CreateOrgDescription2": "Anyone you invite now will have access to the Workspace {0} as soon as they create their GitKraken account.",
+    "ShareWorkspaceModal-OrganizationName": "Organization Name",
+    "ShareWorkspaceModal-OrganizationNameExample": "Ex. Sirius Cybernetics",
     "TerminalContextMenu-NewTerminal": "Open New Terminal",
     "TerminalContextMenu-Copy": "Copy",
     "TerminalContextMenu-Paste": "Paste",
@@ -3219,9 +3113,13 @@
     "TerminalContextMenu-DeleteLine": "Delete Line",
     "TerminalContextMenu-Clear": "Clear",
     "TerminalContextMenu-CloseTerminal": "Close Terminal",
-
-    "workspace": "workspace",
+    "WorkspaceLowercase": "workspace",
     "Workspaces": "Workspaces",
+    "LocalWorkspace": "Local Workspace",
+    "LocalWorkspaces": "Local Workspaces",
+    "CloudWorkspace": "Cloud Workspace",
+    "CloudWorkspaces": "Cloud Workspaces",
+    "Workspace-AccessViewIssueNotGrantedForJira": "You do not have permission in Jira to view issues in the selected project",
     "Workspace-AddProjectForAnyTeams": "You do not have permission to add a project for a team your not a member of",
     "Workspace-ChooseRepositoryCreateBranch": "Choose a repo to create a branch for the issue",
     "Workspace-SelectAProvider": "Select a provider",
@@ -3249,6 +3147,7 @@
     "Workspace-PullSuccess": "GitKraken successfully pulled {0} repositories",
     "Workspace-IntegrationNotConnected": "Integration not connected",
     "Workspace-LocateInFilesystem": "Locate in filesystem",
+    "Workspace-MultiplePathsDetected": "Multiple paths detected for this repository. Click to select a specific path for this repo",
     "Workspace-RelocateInFilesystem": "Relocate in filesystem",
     "Workspace-LocateAllInFilesystem": "Locate all in filesystem",
     "Workspace-LocateXInFilesystem": "Locate {0} in filesystem",
@@ -3263,11 +3162,12 @@
     "Workspace-TypeCloud": "Cloud",
     "Workspace-SelectAzureProject": "Select Azure project",
     "Workspace-SelectLocation": "Select provider",
+    "Workspace-SelectProject": "Select project",
     "Workspace-SelectAProviderToCreateCloudWorkspace": "Select the service that hosts repos in this workspace",
     "Workspace-SuccessfullyMappedRepos": "Successfully located {0} repos in {1}",
     "Workspace-UnsuccessfullyMappedRepos": "Could not locate {0} repos in {1}",
     "Workspace-IncorrectVersionGitLab": "GitLab Self-Managed versions below {0} are not supported",
-    "Workspace-IncorrectVersionGitHub": "Github Enterprise versions below {0} are not supported",
+    "Workspace-IncorrectVersionGitHub": "Github Enterprise Server versions below {0} are not supported",
     "Workspace-IncorrectVersion": "Version not supported",
     "Workspace-IconErrorTitle": "Failed to Upload Icon",
     "Workspace-FailedToFetchMetrics": "Failed to fetch metrics",
@@ -3284,6 +3184,7 @@
     "Workspace-NoRemoveRepoPermissions": "You do not have permission to remove repositories from this workspace",
     "Workspace-ErrorGettingWorkspaceRepositories": "Unable to display repos for this workspace",
     "Workspace-ErrorGettingWorkspaceIssues": "Unable to fetch issues for this workspace",
+    "Workspace-ErrorFetchingWorkspaceIssuesForJira": "Unable to fetch issues for the selected Jira project",
     "Workspace-TokenMayHaveExpiredOrMissingScopes": "Token may have expired or is missing scopes",
     "Workspace-TryAgainLater": "You may have lost permission to view them, or are disconnected from the Internet. Please check your connections and try again.",
     "Workspace-UnableToLoadOrUpdate": "Unable to load or update projects",
@@ -3307,40 +3208,35 @@
     "Workspace-GitKrakenCantFindRepository": "GitKraken can't find the repository {0}.",
     "Workspace-AddMemberSectionLabel": "Organization Members",
     "Workspace-AddTeamSectionLabel": "Organization Teams",
-
-    "Cli-GkCommandAvailableOnlyInRepoProjects": "This command can only be executed in {0} repository",
-    "Cli-GkCommandNotAvailableInSubmodules": "This command cannot be executed in submodules at the moment",
-    "Cli-GkDescription": "Access GitKraken commands",
-    "Cli-GkCommandAvailableOnlyInTerminalTab": "This command can only be executed in a terminal tab",
-    "Cli-GkShowHelpDescription": "Show command help",
-    "Cli-GkGraphDescription": "Show the commit graph",
-    "Cli-GkGraphTopDescription": "Set commit graph at the top",
-    "Cli-GkGraphLeftDescription": "Set commit graph at the left",
-    "Cli-GkGraphRightDescription": "Set commit graph at the right",
-    "Cli-GkGraphBottomDescription": "Set commit graph at the bottom",
-    "Cli-GkGraphShowDescription": "Shows the commit information from the graph panel columns",
-    "Cli-GkGraphShowShaDescription": "Show commit SHA",
-    "Cli-GkGraphShowAuthorDescription": "Show commit AUTHOR",
-    "Cli-GkGraphShowDateDescription": "Show commit DATE/TIME",
-    "Cli-GkGraphHideDescription": "Hides the commit information from the graph panel columns",
-    "Cli-GkGraphHideShaDescription": "Hide commit SHA",
-    "Cli-GkGraphHideAuthorDescription": "Hide commit AUTHOR",
-    "Cli-GkGraphHideDateDescription": "Hide commit DATE/TIME",
-    "Cli-GkBlameDescription": "Search for a file to view who did what",
-    "Cli-GkHistoryDescription": "Search for a file to view its history/blame",
-
+    "Cli-GkcCommandAvailableOnlyInRepoProjects": "This command can only be executed in {0} repository",
+    "Cli-GkcCommandNotAvailableInSubmodules": "This command cannot be executed in submodules at the moment",
+    "Cli-GkcDescription": "Access GitKraken commands",
+    "Cli-GkcCommandAvailableOnlyInTerminalTab": "This command can only be executed in a terminal tab",
+    "Cli-GkcShowHelpDescription": "Show command help",
+    "Cli-GkcGraphDescription": "Show the commit graph",
+    "Cli-GkcGraphTopDescription": "Set commit graph at the top",
+    "Cli-GkcGraphLeftDescription": "Set commit graph at the left",
+    "Cli-GkcGraphRightDescription": "Set commit graph at the right",
+    "Cli-GkcGraphBottomDescription": "Set commit graph at the bottom",
+    "Cli-GkcGraphShowDescription": "Shows the commit information from the graph panel columns",
+    "Cli-GkcGraphShowShaDescription": "Show commit SHA",
+    "Cli-GkcGraphShowAuthorDescription": "Show commit AUTHOR",
+    "Cli-GkcGraphShowDateDescription": "Show commit DATE/TIME",
+    "Cli-GkcGraphHideDescription": "Hides the commit information from the graph panel columns",
+    "Cli-GkcGraphHideShaDescription": "Hide commit SHA",
+    "Cli-GkcGraphHideAuthorDescription": "Hide commit AUTHOR",
+    "Cli-GkcGraphHideDateDescription": "Hide commit DATE/TIME",
+    "Cli-GkcBlameDescription": "Search for a file to view who did what",
+    "Cli-GkcHistoryDescription": "Search for a file to view its history/blame",
     "Cli-GeneratorFileStatusAddedFile": "Added file",
     "Cli-GeneratorFileStatusDeletedFile": "Deleted file",
     "Cli-GeneratorFileStatusModifiedFile": "Modified file",
     "Cli-GeneratorFileStatusUntrackedFile": "Untracked file",
     "Cli-GeneratorFileStatusAllChangesInFolder": "All changes in this folder",
     "CLI-Generators-FoundInRemote": "Found in remote '{0}'",
-
     "Cli-CdDescription": "Change directory",
     "Cli-ParentDirectory": "Parent directory",
-
     "Cli-LoadingMessage": "Loading terminal",
-
     "Cli-NpmDescription": "Node package manager",
     "Cli-NpmWorkspaceDescription": "Enable running a command in the context of the configured workspaces of the current project",
     "Cli-NpmWorkspacesDescription": "Enable running a command in the context of all the configured workspaces",
@@ -3494,7 +3390,6 @@
     "Cli-NpmViewDescription": "View registry info",
     "Cli-NpmViewJsonDescription": "Show output in json format",
     "Cli-NpmWhoamiDescription": "Display npm username",
-
     "Cli-CurrentDirectorySuggestion": "Current Directory",
     "Cli-GitAmendDescription": "Replace the tip of the current branch by creating a new commit",
     "Cli-GitAmendNoEditDescription": "Use the selected commit message without launching an editor",
@@ -3949,7 +3844,6 @@
     "Cli-GitFlowReleaseBranchPushDescription": "Use the contents of the given file as a tag message",
     "Cli-GitFlowReleaseBranchTagDescription": "Use the contents of the given file as a tag message",
     "Cli-GitFlowReleaseSquashDescription": "Squash release during merge",
-
     "Cli-PackageSagasWorkspaces": "Workspaces",
     "Cli-YarnDescription": "Manage packages and run scripts",
     "Cli-YarnDisablePNPDescription": "Disable the Plug'n'Play installation",
@@ -4110,11 +4004,9 @@
     "Cli-YarnWorkspacesDescription": "Show information about your workspaces",
     "Cli-YarnWorkspacesInfoDescription": "Display the workspace dependency tree of your current project",
     "Cli-YarnWorkspacesRunDescription": "Run the chosen Yarn command in each workspace",
-
     "GitInfo-AheadBehind": "You are {0} commits ahead, and {1} commits behind",
     "GitInfo-Ahead": "You are {0} commits ahead",
     "GitInfo-Behind": "You are {0} commits behind",
-
     "InitialWorkspacesExperience-CreateWorkspace": "Create a Workspace",
     "InitialWorkspacesExperience-GKWorkspaces": "GitKraken Workspaces",
     "InitialWorkspacesExperience-WelcomeTo": "Welcome to",
@@ -4128,10 +4020,8 @@
     "InitialWorkspacesExperience-Slide03Message": "Share Cloud Workspaces with your teams to keep everyone aligned on the same repositories and see pull requests & issues for all team members in a separate Team View.",
     "InitialWorkspacesExperience-Slide04Message": "Shared Workspaces reduce the time it takes to onboard new members of your team by allowing them to quickly clone multiple repositories at once. This is also helpful when getting a new machine up and running!",
     "InitialWorkspacesExperience-Slide05Message": "GitKraken Insights increase the velocity of your projects by helping you and your team understand how many pull requests are being opened and merged over time for all of your repositories.",
-
     "WorkspaceRepository-ErrorFetchingRepo": "GitKraken encountered an error while fetching this repository. Please open the repository to resolve this issue.",
     "WorkspaceRepository-ErrorPullRepo": "GitKraken could not pull repository due to possible conflicts. Please open the repository to resolve this issue.",
-
     "WorkspaceRepositories-AddRepositories": "Add Repositories",
     "WorkspaceRepositories-Checkbox": "Checkbox",
     "WorkspaceRepositories-Favorite": "Favorite",
@@ -4157,7 +4047,6 @@
     "WorkspaceRepositories-ErrorOpeningRepo": "Error opening repo",
     "WorkspaceRepositories-RepoMaybeDeleted": "Repo is unreachable and may have been deleted",
     "WorkspaceRepositories-RepoMustBeClonedToFavorite": "Repository must be cloned to favorite",
-
     "WorkspacePullRequests-TableColumns": "Pull Request Table",
     "WorkspacePullRequests-MergeRequestsTableColumns": "Merge Request Table",
     "WorkspacePullRequests-FindAPullRequest": "Find a pull request...",
@@ -4166,13 +4055,10 @@
     "WorkspacePullRequests-AtRiskLabel": "At risk",
     "WorkspacePullRequests-GlsmVersionNotSupported": "Your Gitlab Self Managed version does not support this filter.",
     "WorkspacePullRequests-PleaseUpgrade": "Please upgrade to version {0} or higher.",
-
     "FilterDropdown-ApplyFilters": "Apply filters",
     "FilterDropdown-Cancel": "Cancel",
     "FilterDropdown-Reset": "Clear filters",
-
     "WorkspaceFilter-Filters": "Filters",
-
     "WorkspacePullRequestsFilter-FilterPullRequests": "Filter pull requests",
     "WorkspacePullRequestsFilter-FilterMergeRequests": "Filter merge requests",
     "WorkspacePullRequestsFilter-AddEditPullRequestFilters": "Add/Edit Pull Request Filters",
@@ -4189,7 +4075,6 @@
     "WorkspacePullRequestsFilter-OnlyShowMRsAtRisk": "Only show MRs that are at risk",
     "WorkspacePullRequestsFilter-Repositories": "Repositories",
     "WorkspacePullRequestsFilter-SelectRepositories": "Select repositories",
-
     "WorkspacePullRequestMetrics-AverageCycleTime": "Average Cycle Time",
     "WorkspacePullRequestMetrics-AverageCycleTimeTooltip": "The average time it takes for a pull request to be merged for the selected timeframe. It measures the total time a pull request takes from the 1st commit until it is merged. A high Cycle Time can indicate too much complexity in your team's pull requests causing bottlenecks in your ability to stay on pace with your workload. Average Cycle Time is also known as \"Lead Time for Changes.\"",
     "WorkspacePullRequestMetrics-AverageThroughput": "Average Throughput",
@@ -4207,12 +4092,13 @@
     "WorkspacePullRequestMetrics-MRsMerged": "MRs merged per week",
     "WorkspacePullRequestMetrics-PRsMergedOpened": "PRs merged / opened",
     "WorkspacePullRequestMetrics-MRsMergedOpened": "MRs merged / opened",
-
+    "WorkspacePullRequestMetrics-InsightsEnabled": "Insights",
+    "WorkspacePullRequestMetrics-LastUpdated": "Last updated: {0}",
+    "WorkspacePullRequestMetrics-UpdateAvailablePerHour": "An update can be performed once every hour",
     "WorkspaceListFilter-Teams": "Teams",
     "WorkspaceListFilter-ShowAllTeams": "Show all Team Workspaces",
     "WorkspaceListFilter-ShowAllTeamsTooltip": "As an owner or admin, you can see all Team Workspaces in your organization. Uncheck this to see only Team Workspaces for teams you belong to.",
     "WorkspaceListFilter-NeedToBePartOfTeam": "You need to be part of a team to use this filter",
-
     "WorkspacesTab-AllWorkspaces": "All Workspaces",
     "WorkspacesTab-Issues": "Issues",
     "WorkspacesTab-Loading": "Loading",
@@ -4221,17 +4107,16 @@
     "WorkspacesTab-LoadingRepositories": "Loading repositories...",
     "WorkspacesTab-LoadingPullRequests": "Loading pull requests...",
     "WorkspacesTab-LoadingMergeRequests": "Loading merge requests...",
+    "WorkspacesTab-LoadingInsights": "Loading insights...",
     "WorkspacesTab-AddingRepositories": "Adding repositories...",
     "WorkspacesTab-NewWorkspace": "New Workspace",
     "WorkspacesTab-PullRequests": "Pull Requests",
     "WorkspacesTab-Repositories": "# of repos",
     "WorkspacesTab-SearchWorkspaces": "Search workspaces",
     "WorkspacesTab-Title": "Workspaces",
-
     "WorkspaceNotFound-Title": "Workspace not found",
     "WorkspaceNotFound-Description": "GitKraken could not find {0}. Please check your internet connection and return to the main workspaces page.",
     "WorkspaceNotFound-ReturnToWorkspaces": "Return to Workspaces",
-
     "SingleWorkspaceTab-AddRepositories": "Add repositories",
     "SingleWorkspaceTab-Issues": "Issues",
     "SingleWorkspaceTab-NoRepo": "There are no repositories yet on this workspace",
@@ -4247,7 +4132,7 @@
     "SingleWorkspaceTab-TeamView": "Team view",
     "SingleWorkspaceTab-Repositories": "Repositories",
     "SingleWorkspaceTab-TeamWorkspace": "Team Workspace ({0})",
-
+    "SingleWorkspaceTab-Insights": "Insights",
     "AddEditWorkspace-ProjectSync": "Sync with a single Azure project",
     "AddEditWorkspace-ProjectSyncDescription": "Adds and syncs all repos from the selected project",
     "AddEditWorkspace-Direct": "Manually select Azure repos",
@@ -4264,8 +4149,8 @@
     "AddEditWorkspace-ErrorMaxTeamWorkspacesDescription": "You’ve reached the maximum number of Team Workspaces allowed for this organization. Please remove an existing Workspace to add a new one.",
     "AddEditWorkspace-ErrorMaxMachineWorkspaces": "Machine workspaces limit reached",
     "AddEditWorkspace-ErrorMaxMachineWorkspacesDescription": "You’ve reached the maximum number of Workspaces allowed for this machine. Please remove an existing Workspace to add a new one.",
-    "AddEditWorkspace-LocalDescription": "**Local Workspaces** give you quick access to repos you use the most on this machine, display statuses like current branch and commits ahead/behind, allow multi-repo Git actions, and more!",
-    "AddEditWorkspace-CloudDescription": "**Cloud Workspaces** are enhanced with Pull Request and Issue data for all repos in the Workspace. They are accessible on any machine, and can be shared with teams in your organization.",
+    "AddEditWorkspace-LocalDescription": "{0} give you quick access to repos you use the most on this machine, display statuses like current branch and commits ahead/behind, allow multi-repo Git actions, and more!",
+    "AddEditWorkspace-CloudDescription": "{0} are enhanced with Pull Request and Issue data for all repos in the Workspace. They are accessible on any machine, and can be shared with teams in your organization.",
     "AddEditWorkspace-NamePlaceholder": "Name of the workspace",
     "AddEditWorkspace-RequiredFieldsNotice": "Required Field",
     "AddEditWorkspace-SaveChanges": "Save Changes",
@@ -4298,21 +4183,22 @@
     "AddEditWorkspace-ProviderNotFoundFor": "A provider could not be found for",
     "AddEditWorkspace-Repos": "{0} repos",
     "AddEditWorkspace-NoShareWarning": "This workspace will not be shared with anyone. Only owners and admins will be able to see this workspace.",
-
     "WorkspaceError-AddRepositoriesTitle": "Failed to add repositories",
     "WorkspaceError-AddRepositoryToTitle": "Failed to add repository to workspace",
     "WorkspaceError-AddRepositoriesMessage": "The following repositories could not be added to the workspace: {0}",
     "WorkspaceError-AddRepositoryToWorkspaceMessage": "The repository could not be added to the \"{0}\" workspace",
     "WorkspaceError-RemoveRepositoriesTitle": "Failed to remove repositories",
     "WorkspaceError-RemoveRepositoriesMessage": "The following repositories could not be removed from the workspace: {0}",
-    "WorkspaceError-TroubleConnectingToProvider": "We are having trouble connecting to {0}.",
-    "WorkspaceError-Please": "Please",
-    "WorkspaceError-CheckSettings": "check your integration settings",
+    "WorkspaceError-TroubleConnectingToProvider": "We are having trouble connecting to {0}. Please {1} to access this workspace.",
+    "WorkspaceError-CheckSettingsForService": "check your integration settings for {0}",
     "WorkspaceError-ConnectToIntegrationToAccess": "Connect your {0} integration to access this workspace.",
-    "WorkspaceError-ToAccess": "for {0} to access this workspace.",
-    "WorkspaceError-WrongHost": "Your {0} integration is connected with an account that can't access repos in this workspace. If you want to view this workspace you'll need to disconnect your {0} integration and connect with one that can access the repos in this workspace.",
+    "WorkspaceError-WrongHost": "Your {0} integration is connected with an account that can't access repos in this workspace. If you want to view this workspace you'll need to disconnect your {0} integration and connect with one that can access the repos in this workspace. Please {1}.",
+    "WorkspaceError-CheckSettings": "check your integration settings",
     "WorkspaceError-CouldNotFindRepositoryToLocate": "Could not find repository to locate",
-
+    "WorkspaceError-WorkspaceNotFound": "Workspace not found",
+    "WorkspaceError-CreateOrgAndShare": "Failed to create organization and share with Workspace",
+    "WorkspaceError-ShareWorkspaceWithUserTitle": "Failed to share workspace",
+    "WorkspaceError-ShareWorkspaceWithUserDescription": "Could not add the following emails: {0}",
     "DeleteWorkspace-Deleting": "Deleting...",
     "DeleteWorkspace-Delete": "Delete Workspace",
     "DeleteWorkspace-Error": "Failed to delete workspace",
@@ -4324,11 +4210,10 @@
     "DeleteWorkspace-WarningExplained": "THIS ACTION CANNOT BE UNDONE. This will permanently delete the {0} workspace",
     "DeleteWorkspace-WarningExplainedCannotBeUndone": "THIS ACTION CANNOT BE UNDONE. This will permanently delete the {0} workspace from the Organization and all members will lose access",
     "DeleteWorkspace-WarningFinal": "This action cannot be undone",
-
     "WorkspaceSummarySection-Edit": "Edit workspace",
     "WorkspaceSummarySection-AddRepositories": "Add repositories",
+    "WorkspaceSummarySection-CreateManualAzureWorkspace": "Create manual Azure workspace",
     "WorkspaceSummarySection-Delete": "Delete workspace",
-
     "WorkspacePullRequestSection-MyPullRequests": "MY PULL REQUESTS",
     "WorkspacePullRequestSection-MyMergeRequests": "MY MERGE REQUESTS",
     "WorkspacePullRequestSection-RepoHeader": "Repo",
@@ -4345,7 +4230,6 @@
     "WorkspacePullRequestSection-DraftPullRequest": "Draft Pull Request",
     "WorkspacePullRequestSection-Open": "Open",
     "WorkspacePullRequestSection-Insights": "Insights",
-    "WorkspacePullRequestSection-InsightsEnabled": "Insights",
     "WorkspacePullRequestSection-OpenPullRequest": "Open Pull Request",
     "WorkspacePullRequestSection-ChangesRequested": "This pull request has changes requested",
     "WorkspacePullRequestSection-ReviewPending": "This pull request has pending reviews",
@@ -4363,7 +4247,6 @@
     "WorkspacePullRequestSection-ComplexityTooltip": "PREVIEW: Complexity is currently based on the # of lines changed, # of files changed, and the # of commits in the pull request, and compared relatively to other pull requests in the list. These calculations may change.",
     "WorkspacePullRequestSection-SearchOrSelectAssignee": "Search or select assignee",
     "WorkspacePullRequestSection-SearchOrSelectAuthor": "Search or select author",
-
     "WorkspaceIssuesSection-TableColumns": "Issues Table",
     "WorkspaceIssuesSection-MyIssues": "MY ISSUES",
     "WorkspaceIssuesSection-MyIssuesFilter": "Created by Me",
@@ -4380,29 +4263,24 @@
     "WorkspaceIssuesSection-CreateBranch": "Create a branch",
     "WorkspaceIssuesSection-Open": "Open",
     "WorkspaceIssuesSection-OpenIssuePanel": "Open Issue Panel",
-
+    "WorkspaceIssuesSection-UnauthorizedAccess": "You do not have permission to view issues for this project",
     "WorkspaceMyWIPSection-TableColumns": "Work in Progress Table",
     "WorkspaceMyWIPSection-WorkInProgress": "WORK IN PROGRESS",
     "WorkspaceMyWIPSection-RepoHeader": "Repo",
     "WorkspaceMyWIPSection-RemoteName": "Remote Name",
     "WorkspaceMyWIPSection-NoChangesMade": "There are no changes within your workspace repos",
     "WorkspaceMyWIPSection-FileChanges": "File changes",
-
     "WorkspaceOverview-LastUpdated": "Last updated",
     "WorkspaceOverview-UseGlobalSearch": "Use global search",
-
     "WorkspaceTeamOverview-TeamPullRequests": "TEAM PULL REQUESTS",
     "WorkspaceTeamOverview-TeamMergeRequests": "TEAM MERGE REQUESTS",
     "WorkspaceTeamOverview-TeamIssues": "TEAM ISSUES",
-
     "WorkspaceCreateFromLocal-CreateCloudWorkspace": "Improve Focus with a Cloud Workspace",
     "WorkspaceCreateFromLocal-BannerMessage": "Cloud Workspaces are enhanced with pull request and issue data for all repositories in a Workspace. They help you focus on the your critical daily tasks, and provide quick paths to start, continue, and complete work. They can also be shared with your team to keep everyone on the same page and improve onboarding.",
     "WorkspaceCreateFromLocal-BannerCTA": "Start a new Cloud Workspace with the hosted repos that have been detected in this Workspace:",
     "WorkspaceCreateFromLocal-Dismiss": "Dismiss",
-
     "RemoveRepositories-Error": "Remove repositories from {0} failed",
     "RemoveRepositories-Success": "Remove {0} repositories from {1} succeeded",
-
     "InvalidSSLCertificate-Title": "Invalid SSL Certificate",
     "InvalidSSLCertificate-Advanced": "Advanced",
     "InvalidSSLCertificate-AdvancedMessage": "Attackers may be attempting to steal information through this integration. Proceeding with an invalid SSL certificate is not safe. Disabling this integration and contacting your system administrator is recommended.",
@@ -4417,36 +4295,34 @@
     "InvalidSSLCertificate-PleaseContactYourAdministrator": "Please contact your system administrator to fix the certificate for this hosted integration. You can find information about fixing an invalid SSL cert on the {0}.",
     "InvalidSSLCertificate-ReconnectRequired": "You will need to reconnect to your integration following the restart.",
     "InvalidSSLCertificate-RestartIfResolved": "Please restart GitKraken after fixing the SSL certificate.",
-
     "Theme-ApplicationFailedTitle": "Error in {0} theme",
     "Theme-ApplicationFailedMessage": "Theme system failed to apply {0}. See the application log for details",
     "Theme-CircularReferenceAtKey": "Theme has a circular reference at key {0}",
     "Theme-EncounteredErrorEvaluatingValue": "Theme encountered error evaluating {0}: {1}",
     "Theme-DirectoryWatcherFailedTitle": "Error watching themes directory",
     "Theme-DirectoryWatcherFailedMessage": "The directory watcher encountered error '{0}'. Hot reload will stop working until the app is restarted",
-
     "Time-NY": "{0}y",
     "Time-NMonth": "{0}M",
     "Time-NW": "{0}w",
     "Time-ND": "{0}d",
+    "Time-NDaysAgo": "{0} days ago",
     "Time-NH": "{0}h",
+    "Time-NHoursAgo": "{0} hours ago",
     "Time-NMinute": "{0}m",
+    "Time-NMinutesAgo": "{0} minutes ago",
     "Time-NS": "{0}s",
-
+    "Time-NSecondsAgo": "{0} seconds ago",
     "VelocityPanel-Title": "Increase Velocity with GitKraken Insights",
     "VelocityPanel-BannerMessage": "Optimize the velocity of your projects with insights into pull requests for all repos in this Workspace. Continually improve how quickly you and your team are innovating by understanding how many PRs are being opened and closed over time.",
     "VelocityPanel-BannerCTA": "Connect Insights to start calculating velocity",
     "VelocityPanel-ConnectWithProvider": "Connect with {0}",
     "VelocityPanel-ProvideFeedback": "Provide feedback on Insights",
     "VelocityPanel-FeedbackSubject": "GitKraken Insights Feedback",
-
     "VelocityAuthSection-GitKrakenInsights": "GitKraken Insights",
     "VelocityAuthSection-ConnectInsightsWith": "Connect Insights with {0}",
     "VelocityAuthSection-Description": "Optimize the velocity of your projects with insights into pull requests for all repos in your Workspaces.",
-
     "WSL-DistroCommandErrorToastTitle": "Command failed in {0}",
     "WSL-HostCommandErrorToastTitle": "Command failed in Windows",
-
     "OpenRepoExternallyToast-WindowsTitle": "Working with repositories stored on WSL is not recommended from GitKraken on Windows. Visit our Help Center for help setting up GitKraken in WSL for the best experience.",
     "OpenRepoExternallyToast-WSLTitle": "Working with repositories stored on Windows is not recommended from GitKraken on WSL. Visit our Help Center for help setting up GitKraken in Windows for the best experience.",
     "OpenRepoExternallyToast-OpenSupportDocs": "Open Help Center",
@@ -4458,7 +4334,6 @@
     "OpenRepoExternallyToast-WindowsGKNotInstalled": "Install GitKraken on Windows",
     "OpenRepoExternallyToast-BackupDescription": "Unable to determine repository location",
     "OpenRepoExternallyToast-OpenAnyways": "Open Repository Anyway",
-
     "AiCommitMessageGeneration-OpenAiError": "OpenAI Error",
     "AiCommitMessageGeneration-NoApiKey": "No API key set",
     "AiCommitMessageGeneration-NoApiKeySet": "Add your OpenAI API key to the preferences menu to use this feature",
@@ -4467,10 +4342,8 @@
     "AiCommitMessageGeneration-NoStagedChangesDescription": "Stage any changes you would like to be uploaded and try again.",
     "AiCommitMessageGeneration-BannerMessage": "This feature requires sending your code changes to OpenAI. Ensure your code does not contain sensitive information before generating a commit message. Do you want to continue?",
     "AiCommitMessageGeneration-BannerAlwaysButtonLabel": "Always for this repo",
-
     "AiCommitMessageGeneration-LengthExceededErrorTitle": "OpenAI Request Context Max Length Exceeded",
     "AiCommitMessageGeneration-LengthExceededErrorDescription": "try reducing the length of the prompt and try again.",
-
     "Git-RemoteMessage-Title": "Remote: {0}",
     "Git-Error-Title": "Git Error"
   }
