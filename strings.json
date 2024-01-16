@@ -2459,7 +2459,7 @@
     "Trial-TrialEndedModalTitle": "注册以访问私有仓库",
     "Trial-StartTrial": "开始试用",
     "Trial-NotNow": "暂不",
-    "Trial-NewTrialAvailableExtended": "新的 GitKraken 试用版现已推出 - 立即激活",
+    "Trial-NewTrialAvailableExtended": "^_^",
     "Error": "错误",
     "Error-AddExternalSSHKeyToServiceFailed": "加入 SSH 密钥失败",
     "Error-AmendFailed": "编辑失败",
