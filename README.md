@@ -3,8 +3,6 @@
 [GitKraken](https://www.gitkraken.com/) 简体中文补丁
 
 ## 翻译说明
-会参考一些有简中的git GUI进行翻译
-
 - Pull -> 拉取
 - Push -> 推送
 - Repo -> 仓库
