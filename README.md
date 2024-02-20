@@ -24,7 +24,6 @@
 ## 说明
 尽量使用对应版本的中文补丁。版本不对应可能会存在翻译不完整的情况，但不会影响功能使用。
 后续翻译都会根据官方对应的版本进行翻译（官方去掉的功能，翻译中也会去掉），所以高版本的翻译文件是不兼容低版本的。
-同时也会对旧版本的翻译词进行纠正，如Blame -> 追责； Stage -> 暂存； Stash -> 存档； 
 
 ## 翻译参考
 - [GitKraken-zh-Simplified](https://github.com/qisumi/GitKraken-zh-Simplified)
