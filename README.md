@@ -17,7 +17,7 @@
   - Windows: `%LOCALAPPDATA%\gitkraken\app-xxx\resources\app.asar.unpacked\src\strings.json`
   - Mac: `/Applications/GitKraken.app/Contents/Resources/app.asar.unpacked/src/strings.json`
   - Linux: `/usr/share/gitkraken/resources/app.asar.unpacked/src`
-- 重启 GitKraken Preference -> UI Customization -> Language 切换语言
+- ~~重启 GitKraken Preference -> UI Customization -> Language 切换语言~~ (9.13.0版本及以后，不再需要此操作)
 
 ## 说明
 尽量使用对应版本的中文补丁。版本不对应可能会存在翻译不完整的情况，但不会影响功能使用。
