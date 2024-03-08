@@ -13,7 +13,7 @@
     "CheckForUpdateWithLastCheckedTime": "检查更新 <%= updateLastCheckedTime %>",
     "UpdateAvailableWithVersion": "可用更新 (<%= updateAvailableVersion %>)",
     "UpdateDownloadedShowFile": "已下载更新 (查看文件)",
-    "UpdateErroredAtTime": "更新错误<%= updateErrorTime %>",
+    "UpdateErroredAtTime": "更新错误 <%= updateErrorTime %>",
     "DownloadingUpdate": "正在下载更新...",
     "Preferences": "偏好设置...",
     "&Preferences": "偏好设置(&P)...",
