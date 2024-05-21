@@ -4508,6 +4508,7 @@
     "AddEditWorkspace-SearchRemoteRepos": "查找远程仓库",
     "AddEditWorkspace-SelectedRepoOne": "1 个仓库将会被加到这个工作区",
     "AddEditWorkspace-SelectedReposCount": "{0} 个仓库将会被加到这个工作区",
+    "AddEditWorkspace-ClearRepoSelection": "清除",
     "AddEditWorkspace-SelectRepos": "选择添加工作区的仓库",
     "AddEditWorkspace-SelectLocalSyncedWorkspaceRepos": "选择保存仓库的目录，以便与本地工作区同步",
     "AddEditWorkspace-TeamDescription": "选择该工作区将被共享的团队和成员",
